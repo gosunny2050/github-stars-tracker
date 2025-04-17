@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Trending Repositories</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .book {
+            background-color: white;
+            padding: 30px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 5px;
+        }
+        h1 {
+            color: #24292e;
+            border-bottom: 1px solid #e1e4e8;
+            padding-bottom: 10px;
+        }
+        .toc {
+            margin: 20px 0;
+        }
+        .toc ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .toc li {
+            margin: 10px 0;
+        }
+        .toc a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        .toc a:hover {
+            text-decoration: underline;
+        }
+        .date {
+            font-size: 14px;
+            color: #586069;
+        }
+        .repo {
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #e1e4e8;
+        }
+        .repo-name {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .repo-url {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        .repo-desc {
+            color: #586069;
+            margin: 5px 0;
+        }
+        .repo-meta {
+            color: #6a737d;
+            font-size: 14px;
+        }
+        footer {
+            margin-top: 30px;
+            text-align: center;
+            color: #586069;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="book">
+        <h1>GitHub Trending Repositories</h1>
+        <p>A daily collection of the fastest growing repositories on GitHub.</p>
+        
+        <div class="toc">
+            <h2>Table of Contents</h2>
+            <ul>
+                {% for day in days %}
+                <li>
+                    <a href="archives/{{ day.date }}.html">{{ day.date }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        
+        <footer>
+            <p>Generated on {{ current_date }} - Updated daily</p>
+        </footer>
+    </div>
+</body>
+</html>
