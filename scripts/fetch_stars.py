@@ -13,34 +13,51 @@ def get_trending_repositories(date=None):
     else:
         url = "https://github.com/trending"
     
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()  # 检查请求是否成功
+    except Exception as e:
+        print(f"请求GitHub趋势页面失败: {e}")
+        return []
     
+    soup = BeautifulSoup(response.text, 'html.parser')
     repos = []
+    
+    # 更健壮的选择器
     for article in soup.select('article.Box-row'):
-        repo_info = {}
-        
-        # 获取仓库名称和链接
-        h1 = article.select_one('h1 a')
-        repo_info['name'] = h1.get_text().strip().replace('\n', '').replace(' ', '')
-        repo_info['url'] = f"https://github.com{h1['href']}"
-        
-        # 获取描述
-        desc = article.select_one('p')
-        repo_info['description'] = desc.get_text().strip() if desc else ''
-        
-        # 获取语言
-        lang = article.select_one('span[itemprop="programmingLanguage"]')
-        repo_info['language'] = lang.get_text().strip() if lang else ''
-        
-        # 获取star数
-        stars = article.select('a.Link--muted')[0]
-        repo_info['stars'] = stars.get_text().strip()
-        
-        repos.append(repo_info)
-        
-        if len(repos) >= 10:
-            break
+        try:
+            repo_info = {}
+            
+            # 获取仓库名称和链接
+            h1 = article.select_one('h1.h3 a')
+            if not h1:
+                continue
+                
+            repo_info['name'] = h1.get_text(strip=True).replace('\n', '').replace(' ', '')
+            repo_info['url'] = f"https://github.com{h1['href']}"
+            
+            # 获取描述
+            desc = article.select_one('p.col-9')
+            repo_info['description'] = desc.get_text(strip=True) if desc else ''
+            
+            # 获取语言
+            lang = article.select_one('span[itemprop="programmingLanguage"]')
+            repo_info['language'] = lang.get_text(strip=True) if lang else ''
+            
+            # 获取star数
+            stars = article.select('a.Link--muted')[0]
+            repo_info['stars'] = stars.get_text(strip=True)
+            
+            repos.append(repo_info)
+            
+            if len(repos) >= 10:
+                break
+        except Exception as e:
+            print(f"解析仓库信息时出错: {e}")
+            continue
     
     return repos
 
