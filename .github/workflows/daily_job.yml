@@ -2,8 +2,8 @@ name: Daily GitHub Trending Job
 
 on:
   schedule:
-    - cron: '44 01 * * *'  # 每天UTC时间12:00运行（可根据需要调整）
-  workflow_dispatch:       # 允许手动触发
+    - cron: '55 1 * * *'  # 每天UTC时间12:00（北京时间20:00）
+  workflow_dispatch:
     inputs:
       date:
         description: 'Specific date to run (YYYY-MM-DD)'
@@ -53,7 +53,7 @@ jobs:
     - name: Generate webpage
       run: |
         if [ -n "${{ github.event.inputs.date }}" ]; then
-          python scripts/generate_webpage.py --date ${{ github.event.inputs.date }
+          python scripts/generate_webpage.py --date ${{ github.event.inputs.date }}
         else
           python scripts/generate_webpage.py
         fi
