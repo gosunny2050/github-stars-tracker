@@ -2,7 +2,7 @@ name: Daily GitHub Trending Job
 
 on:
   schedule:
-    - cron: '39 17 * * *'  # 每天UTC时间12:00运行（可根据需要调整）
+    - cron: '44 01 * * *'  # 每天UTC时间12:00运行（可根据需要调整）
   workflow_dispatch:       # 允许手动触发
     inputs:
       date:
