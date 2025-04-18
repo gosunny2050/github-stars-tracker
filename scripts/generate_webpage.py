@@ -40,7 +40,6 @@ def generate_webpage(date=None):
             f.write(output)
         
         print(f"Generated archive page for {date}")
-        return
     
     # 生成主页面
     all_data = load_all_data()
