@@ -32,12 +32,12 @@ def get_trending_repositories(date=None):
             repo_info = {}
             
             # 获取仓库名称和链接
-            h1 = article.select_one('h1.h3 a')
-            if not h1:
+            h2 = article.select_one('h2.h3 a')
+            if not h2:
                 continue
                 
-            repo_info['name'] = h1.get_text(strip=True).replace('\n', '').replace(' ', '')
-            repo_info['url'] = f"https://github.com{h1['href']}"
+            repo_info['name'] = h2.get_text(strip=True).replace('\n', '').replace(' ', '')
+            repo_info['url'] = f"https://github.com{h2['href']}"
             
             # 获取描述
             desc = article.select_one('p.col-9')
