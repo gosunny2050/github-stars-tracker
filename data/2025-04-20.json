@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "description": "\u7a0b\u5e8f\u5458\u5728\u5bb6\u505a\u996d\u65b9\u6cd5\u6307\u5357\u3002Programmer's guide about how to cook at home (Simplified Chinese only).",
+    "language": "Dockerfile",
+    "stars": "77,742"
+  },
+  {
+    "name": "microsoft/BitNet",
+    "url": "https://github.com/microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "language": "C++",
+    "stars": "14,262"
+  },
+  {
+    "name": "jlowin/fastmcp",
+    "url": "https://github.com/jlowin/fastmcp",
+    "description": "\ud83d\ude80 The fast, Pythonic way to build MCP servers and clients",
+    "language": "Python",
+    "stars": "6,134"
+  },
+  {
+    "name": "docmost/docmost",
+    "url": "https://github.com/docmost/docmost",
+    "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
+    "language": "TypeScript",
+    "stars": "14,298"
+  },
+  {
+    "name": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "stars": "314,192"
+  },
+  {
+    "name": "1Panel-dev/1Panel",
+    "url": "https://github.com/1Panel-dev/1Panel",
+    "description": "\ud83d\udd25 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+    "language": "Go",
+    "stars": "27,479"
+  },
+  {
+    "name": "elie222/inbox-zero",
+    "url": "https://github.com/elie222/inbox-zero",
+    "description": "AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+    "language": "TypeScript",
+    "stars": "6,144"
+  },
+  {
+    "name": "linera-io/linera-protocol",
+    "url": "https://github.com/linera-io/linera-protocol",
+    "description": "Main repository for the Linera protocol",
+    "language": "Rust",
+    "stars": "23,776"
+  },
+  {
+    "name": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "description": "Main Sigma Rule Repository",
+    "language": "Python",
+    "stars": "9,073"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stars": "336,265"
+  }
+]
