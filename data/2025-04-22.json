@@ -1,0 +1,72 @@
+[
+  {
+    "name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "stars": "51,519"
+  },
+  {
+    "name": "microsoft/BitNet",
+    "url": "https://github.com/microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "language": "C++",
+    "stars": "15,675"
+  },
+  {
+    "name": "elie222/inbox-zero",
+    "url": "https://github.com/elie222/inbox-zero",
+    "description": "AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+    "language": "TypeScript",
+    "stars": "6,658"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "29,267"
+  },
+  {
+    "name": "allenai/olmocr",
+    "url": "https://github.com/allenai/olmocr",
+    "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+    "language": "Python",
+    "stars": "11,695"
+  },
+  {
+    "name": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader",
+    "language": "Python",
+    "stars": "108,695"
+  },
+  {
+    "name": "drawdb-io/drawdb",
+    "url": "https://github.com/drawdb-io/drawdb",
+    "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+    "language": "JavaScript",
+    "stars": "27,352"
+  },
+  {
+    "name": "nocobase/nocobase",
+    "url": "https://github.com/nocobase/nocobase",
+    "description": "NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+    "language": "TypeScript",
+    "stars": "15,059"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stars": "337,300"
+  },
+  {
+    "name": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "",
+    "stars": "315,237"
+  }
+]
