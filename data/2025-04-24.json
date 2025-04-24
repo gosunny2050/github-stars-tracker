@@ -1,0 +1,72 @@
+[
+  {
+    "name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "stars": "53,133"
+  },
+  {
+    "name": "hydralauncher/hydra",
+    "url": "https://github.com/hydralauncher/hydra",
+    "description": "Hydra is a game launcher with its own embedded bittorrent client",
+    "language": "TypeScript",
+    "stars": "12,748"
+  },
+  {
+    "name": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "description": "Open Source realtime backend in 1 file",
+    "language": "Go",
+    "stars": "46,200"
+  },
+  {
+    "name": "bytedance/UI-TARS",
+    "url": "https://github.com/bytedance/UI-TARS",
+    "description": "",
+    "language": "Python",
+    "stars": "4,646"
+  },
+  {
+    "name": "anthropics/courses",
+    "url": "https://github.com/anthropics/courses",
+    "description": "Anthropic's educational courses",
+    "language": "Jupyter Notebook",
+    "stars": "10,788"
+  },
+  {
+    "name": "drawdb-io/drawdb",
+    "url": "https://github.com/drawdb-io/drawdb",
+    "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+    "language": "JavaScript",
+    "stars": "27,908"
+  },
+  {
+    "name": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "",
+    "stars": "315,873"
+  },
+  {
+    "name": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "description": "\u8ba1\u7b97\u673a\u81ea\u5b66\u6307\u5357",
+    "language": "HTML",
+    "stars": "62,717"
+  },
+  {
+    "name": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "stars": "315,498"
+  },
+  {
+    "name": "microsoft/BitNet",
+    "url": "https://github.com/microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "language": "C++",
+    "stars": "16,783"
+  }
+]
