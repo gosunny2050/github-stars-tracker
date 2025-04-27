@@ -1,0 +1,72 @@
+[
+  {
+    "name": "kortix-ai/suna",
+    "url": "https://github.com/kortix-ai/suna",
+    "description": "Suna - Open Source Generalist AI Agent",
+    "language": "TypeScript",
+    "stars": "6,967"
+  },
+  {
+    "name": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust",
+    "language": "Rust",
+    "stars": "35,384"
+  },
+  {
+    "name": "rowboatlabs/rowboat",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "description": "AI-powered multi-agent builder",
+    "language": "TypeScript",
+    "stars": "1,575"
+  },
+  {
+    "name": "ocrmypdf/OCRmyPDF",
+    "url": "https://github.com/ocrmypdf/OCRmyPDF",
+    "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+    "language": "Python",
+    "stars": "28,329"
+  },
+  {
+    "name": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "stars": "25,854"
+  },
+  {
+    "name": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "stars": "74,848"
+  },
+  {
+    "name": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "",
+    "stars": "166,186"
+  },
+  {
+    "name": "jujumilk3/leaked-system-prompts",
+    "url": "https://github.com/jujumilk3/leaked-system-prompts",
+    "description": "Collection of leaked system prompts",
+    "language": "",
+    "stars": "4,018"
+  },
+  {
+    "name": "AmruthPillai/Reactive-Resume",
+    "url": "https://github.com/AmruthPillai/Reactive-Resume",
+    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "language": "TypeScript",
+    "stars": "30,893"
+  },
+  {
+    "name": "microsoft/generative-ai-for-beginners",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI \ud83d\udd17https://microsoft.github.io/generative-ai-for-beginners/",
+    "language": "Jupyter Notebook",
+    "stars": "80,120"
+  }
+]
