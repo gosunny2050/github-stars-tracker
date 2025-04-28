@@ -1,0 +1,72 @@
+[
+  {
+    "name": "getzep/graphiti",
+    "url": "https://github.com/getzep/graphiti",
+    "description": "Build Real-Time Knowledge Graphs for AI Agents",
+    "language": "Python",
+    "stars": "6,456"
+  },
+  {
+    "name": "microsoft/generative-ai-for-beginners",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI \ud83d\udd17https://microsoft.github.io/generative-ai-for-beginners/",
+    "language": "Jupyter Notebook",
+    "stars": "80,455"
+  },
+  {
+    "name": "rowboatlabs/rowboat",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "description": "AI-powered multi-agent builder",
+    "language": "TypeScript",
+    "stars": "1,906"
+  },
+  {
+    "name": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "stars": "75,163"
+  },
+  {
+    "name": "Stirling-Tools/Stirling-PDF",
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+    "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+    "language": "Java",
+    "stars": "57,002"
+  },
+  {
+    "name": "tracel-ai/burn",
+    "url": "https://github.com/tracel-ai/burn",
+    "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+    "language": "Rust",
+    "stars": "10,752"
+  },
+  {
+    "name": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "",
+    "stars": "166,941"
+  },
+  {
+    "name": "0xk1h0/ChatGPT_DAN",
+    "url": "https://github.com/0xk1h0/ChatGPT_DAN",
+    "description": "ChatGPT DAN, Jailbreaks prompt",
+    "language": "",
+    "stars": "7,836"
+  },
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "stars": "375,647"
+  },
+  {
+    "name": "simular-ai/Agent-S",
+    "url": "https://github.com/simular-ai/Agent-S",
+    "description": "Agent S: an open agentic framework that uses computers like a human",
+    "language": "Python",
+    "stars": "2,912"
+  }
+]
