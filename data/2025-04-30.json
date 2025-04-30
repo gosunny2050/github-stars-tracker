@@ -1,0 +1,72 @@
+[
+  {
+    "name": "hacksider/Deep-Live-Cam",
+    "url": "https://github.com/hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "language": "Python",
+    "stars": "53,497"
+  },
+  {
+    "name": "bgstaal/multipleWindow3dScene",
+    "url": "https://github.com/bgstaal/multipleWindow3dScene",
+    "description": "A quick example of how one can \"synchronize\" a 3d scene across multiple windows using three.js and localStorage",
+    "language": "JavaScript",
+    "stars": "17,900"
+  },
+  {
+    "name": "0xk1h0/ChatGPT_DAN",
+    "url": "https://github.com/0xk1h0/ChatGPT_DAN",
+    "description": "ChatGPT DAN, Jailbreaks prompt",
+    "language": "",
+    "stars": "8,567"
+  },
+  {
+    "name": "microsoft/generative-ai-for-beginners",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI \ud83d\udd17https://microsoft.github.io/generative-ai-for-beginners/",
+    "language": "Jupyter Notebook",
+    "stars": "81,344"
+  },
+  {
+    "name": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "",
+    "stars": "225,972"
+  },
+  {
+    "name": "LadybirdBrowser/ladybird",
+    "url": "https://github.com/LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "stars": "37,823"
+  },
+  {
+    "name": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100\u5929\u4ece\u65b0\u624b\u5230\u5927\u5e08",
+    "language": "Jupyter Notebook",
+    "stars": "165,054"
+  },
+  {
+    "name": "juspay/hyperswitch",
+    "url": "https://github.com/juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "16,468"
+  },
+  {
+    "name": "simular-ai/Agent-S",
+    "url": "https://github.com/simular-ai/Agent-S",
+    "description": "Agent S: an open agentic framework that uses computers like a human",
+    "language": "Python",
+    "stars": "3,308"
+  },
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "stars": "376,700"
+  }
+]
