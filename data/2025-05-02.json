@@ -1,0 +1,72 @@
+[
+  {
+    "name": "hacksider/Deep-Live-Cam",
+    "url": "https://github.com/hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "language": "Python",
+    "stars": "56,378"
+  },
+  {
+    "name": "QwenLM/Qwen-Agent",
+    "url": "https://github.com/QwenLM/Qwen-Agent",
+    "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+    "language": "Python",
+    "stars": "7,578"
+  },
+  {
+    "name": "teableio/teable",
+    "url": "https://github.com/teableio/teable",
+    "description": "\u2728 The Next Gen Airtable Alternative: No-Code Postgres",
+    "language": "TypeScript",
+    "stars": "18,007"
+  },
+  {
+    "name": "juspay/hyperswitch",
+    "url": "https://github.com/juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "17,287"
+  },
+  {
+    "name": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100\u5929\u4ece\u65b0\u624b\u5230\u5927\u5e08",
+    "language": "Jupyter Notebook",
+    "stars": "165,360"
+  },
+  {
+    "name": "simular-ai/Agent-S",
+    "url": "https://github.com/simular-ai/Agent-S",
+    "description": "Agent S: an open agentic framework that uses computers like a human",
+    "language": "Python",
+    "stars": "3,798"
+  },
+  {
+    "name": "QwenLM/Qwen3",
+    "url": "https://github.com/QwenLM/Qwen3",
+    "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+    "language": "Shell",
+    "stars": "19,843"
+  },
+  {
+    "name": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "language": "JavaScript",
+    "stars": "68,461"
+  },
+  {
+    "name": "zed-industries/zed",
+    "url": "https://github.com/zed-industries/zed",
+    "description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "language": "Rust",
+    "stars": "57,825"
+  },
+  {
+    "name": "patchy631/ai-engineering-hub",
+    "url": "https://github.com/patchy631/ai-engineering-hub",
+    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+    "language": "Jupyter Notebook",
+    "stars": "8,886"
+  }
+]
