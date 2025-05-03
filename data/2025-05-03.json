@@ -1,0 +1,72 @@
+[
+  {
+    "name": "hacksider/Deep-Live-Cam",
+    "url": "https://github.com/hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "language": "Python",
+    "stars": "57,714"
+  },
+  {
+    "name": "aipotheosis-labs/aci",
+    "url": "https://github.com/aipotheosis-labs/aci",
+    "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.",
+    "language": "Python",
+    "stars": "1,400"
+  },
+  {
+    "name": "MODSetter/SurfSense",
+    "url": "https://github.com/MODSetter/SurfSense",
+    "description": "Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.",
+    "language": "TypeScript",
+    "stars": "1,982"
+  },
+  {
+    "name": "cloudflare/mcp-server-cloudflare",
+    "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,591"
+  },
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "stars": "2,330"
+  },
+  {
+    "name": "juspay/hyperswitch",
+    "url": "https://github.com/juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "17,440"
+  },
+  {
+    "name": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.",
+    "language": "C++",
+    "stars": "15,847"
+  },
+  {
+    "name": "unionlabs/union",
+    "url": "https://github.com/unionlabs/union",
+    "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+    "language": "Rust",
+    "stars": "56,318"
+  },
+  {
+    "name": "cloudflare/agents",
+    "url": "https://github.com/cloudflare/agents",
+    "description": "Build and deploy AI Agents on Cloudflare",
+    "language": "TypeScript",
+    "stars": "1,775"
+  },
+  {
+    "name": "DiceDB/dice",
+    "url": "https://github.com/DiceDB/dice",
+    "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+    "language": "Go",
+    "stars": "10,308"
+  }
+]
