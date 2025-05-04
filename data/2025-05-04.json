@@ -1,0 +1,72 @@
+[
+  {
+    "name": "aipotheosis-labs/aci",
+    "url": "https://github.com/aipotheosis-labs/aci",
+    "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.",
+    "language": "Python",
+    "stars": "1,918"
+  },
+  {
+    "name": "unionlabs/union",
+    "url": "https://github.com/unionlabs/union",
+    "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+    "language": "Rust",
+    "stars": "56,772"
+  },
+  {
+    "name": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.",
+    "language": "C++",
+    "stars": "15,931"
+  },
+  {
+    "name": "hacksider/Deep-Live-Cam",
+    "url": "https://github.com/hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "language": "Python",
+    "stars": "59,483"
+  },
+  {
+    "name": "cloudflare/mcp-server-cloudflare",
+    "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,720"
+  },
+  {
+    "name": "aws/aws-sdk-java-v2",
+    "url": "https://github.com/aws/aws-sdk-java-v2",
+    "description": "The official AWS SDK for Java - Version 2",
+    "language": "Java",
+    "stars": "2,363"
+  },
+  {
+    "name": "ChrisTitusTech/winutil",
+    "url": "https://github.com/ChrisTitusTech/winutil",
+    "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+    "language": "PowerShell",
+    "stars": "33,608"
+  },
+  {
+    "name": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100\u5929\u4ece\u65b0\u624b\u5230\u5927\u5e08",
+    "language": "Jupyter Notebook",
+    "stars": "165,669"
+  },
+  {
+    "name": "juanfont/headscale",
+    "url": "https://github.com/juanfont/headscale",
+    "description": "An open source, self-hosted implementation of the Tailscale control server",
+    "language": "Go",
+    "stars": "27,675"
+  },
+  {
+    "name": "koreader/koreader",
+    "url": "https://github.com/koreader/koreader",
+    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "language": "Lua",
+    "stars": "20,923"
+  }
+]
