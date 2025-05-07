@@ -1,0 +1,72 @@
+[
+  {
+    "name": "GoogleCloudPlatform/kubectl-ai",
+    "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+    "description": "AI powered Kubernetes Assistant",
+    "language": "Go",
+    "stars": "1,972"
+  },
+  {
+    "name": "LadybirdBrowser/ladybird",
+    "url": "https://github.com/LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "stars": "39,763"
+  },
+  {
+    "name": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "\u5206\u4eab GitHub \u4e0a\u6709\u8da3\u3001\u5165\u95e8\u7ea7\u7684\u5f00\u6e90\u9879\u76ee\u3002Share interesting, entry-level open source projects on GitHub.",
+    "language": "Python",
+    "stars": "105,337"
+  },
+  {
+    "name": "awslabs/agent-squad",
+    "url": "https://github.com/awslabs/agent-squad",
+    "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+    "language": "Python",
+    "stars": "5,110"
+  },
+  {
+    "name": "unionlabs/union",
+    "url": "https://github.com/unionlabs/union",
+    "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+    "language": "Rust",
+    "stars": "58,485"
+  },
+  {
+    "name": "hacksider/Deep-Live-Cam",
+    "url": "https://github.com/hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "language": "Python",
+    "stars": "64,298"
+  },
+  {
+    "name": "glanceapp/glance",
+    "url": "https://github.com/glanceapp/glance",
+    "description": "A self-hosted dashboard that puts all your feeds in one place",
+    "language": "Go",
+    "stars": "23,648"
+  },
+  {
+    "name": "containerd/containerd",
+    "url": "https://github.com/containerd/containerd",
+    "description": "An open and reliable container runtime",
+    "language": "Go",
+    "stars": "18,477"
+  },
+  {
+    "name": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "language": "TypeScript",
+    "stars": "89,679"
+  },
+  {
+    "name": "koreader/koreader",
+    "url": "https://github.com/koreader/koreader",
+    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "language": "Lua",
+    "stars": "21,270"
+  }
+]
