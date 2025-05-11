@@ -1,0 +1,72 @@
+[
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "stars": "28,893"
+  },
+  {
+    "name": "Blaizzy/mlx-audio",
+    "url": "https://github.com/Blaizzy/mlx-audio",
+    "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+    "language": "Python",
+    "stars": "1,489"
+  },
+  {
+    "name": "voideditor/void",
+    "url": "https://github.com/voideditor/void",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,478"
+  },
+  {
+    "name": "zed-industries/zed",
+    "url": "https://github.com/zed-industries/zed",
+    "description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "language": "Rust",
+    "stars": "59,048"
+  },
+  {
+    "name": "Peterande/D-FINE",
+    "url": "https://github.com/Peterande/D-FINE",
+    "description": "D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement [ICLR 2025 Spotlight]",
+    "language": "Python",
+    "stars": "2,150"
+  },
+  {
+    "name": "shane-mason/FieldStation42",
+    "url": "https://github.com/shane-mason/FieldStation42",
+    "description": "Broadcast TV simulator",
+    "language": "Python",
+    "stars": "474"
+  },
+  {
+    "name": "wolfpld/tracy",
+    "url": "https://github.com/wolfpld/tracy",
+    "description": "Frame profiler",
+    "language": "C++",
+    "stars": "11,535"
+  },
+  {
+    "name": "Lightricks/LTX-Video",
+    "url": "https://github.com/Lightricks/LTX-Video",
+    "description": "Official repository for LTX-Video",
+    "language": "Python",
+    "stars": "4,642"
+  },
+  {
+    "name": "punkpeye/awesome-mcp-servers",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "language": "",
+    "stars": "47,547"
+  },
+  {
+    "name": "longbridge/gpui-component",
+    "url": "https://github.com/longbridge/gpui-component",
+    "description": "UI components for building fantastic desktop application by using GPUI.",
+    "language": "Rust",
+    "stars": "2,131"
+  }
+]
