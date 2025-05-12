@@ -1,0 +1,72 @@
+[
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "stars": "29,901"
+  },
+  {
+    "name": "voideditor/void",
+    "url": "https://github.com/voideditor/void",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,248"
+  },
+  {
+    "name": "Lightricks/LTX-Video",
+    "url": "https://github.com/Lightricks/LTX-Video",
+    "description": "Official repository for LTX-Video",
+    "language": "Python",
+    "stars": "4,911"
+  },
+  {
+    "name": "longbridge/gpui-component",
+    "url": "https://github.com/longbridge/gpui-component",
+    "description": "UI components for building fantastic desktop application by using GPUI.",
+    "language": "Rust",
+    "stars": "2,415"
+  },
+  {
+    "name": "ggml-org/llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "description": "LLM inference in C/C++",
+    "language": "C++",
+    "stars": "79,681"
+  },
+  {
+    "name": "isledecomp/isle",
+    "url": "https://github.com/isledecomp/isle",
+    "description": "A functionally complete decompilation of LEGO Island (1997)",
+    "language": "C++",
+    "stars": "2,925"
+  },
+  {
+    "name": "zed-industries/zed",
+    "url": "https://github.com/zed-industries/zed",
+    "description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "language": "Rust",
+    "stars": "59,247"
+  },
+  {
+    "name": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "stars": "319,278"
+  },
+  {
+    "name": "Mail-0/Zero",
+    "url": "https://github.com/Mail-0/Zero",
+    "description": "Experience email the way you want with 0 \u2013 the first open source email app that puts your privacy and safety first. Join the discord:https://discord.gg/0email",
+    "language": "TypeScript",
+    "stars": "6,956"
+  },
+  {
+    "name": "solidtime-io/solidtime",
+    "url": "https://github.com/solidtime-io/solidtime",
+    "description": "Modern open-source time-tracking app",
+    "language": "PHP",
+    "stars": "6,570"
+  }
+]
