@@ -1,0 +1,72 @@
+[
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "stars": "31,364"
+  },
+  {
+    "name": "i-am-alice/3rd-devs",
+    "url": "https://github.com/i-am-alice/3rd-devs",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "310"
+  },
+  {
+    "name": "Blaizzy/mlx-audio",
+    "url": "https://github.com/Blaizzy/mlx-audio",
+    "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+    "language": "Python",
+    "stars": "1,940"
+  },
+  {
+    "name": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "stars": "319,825"
+  },
+  {
+    "name": "lobehub/lobe-chat",
+    "url": "https://github.com/lobehub/lobe-chat",
+    "description": "\ud83e\udd2f Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.",
+    "language": "TypeScript",
+    "stars": "60,542"
+  },
+  {
+    "name": "Lightricks/ComfyUI-LTXVideo",
+    "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+    "description": "LTX-Video Support for ComfyUI",
+    "language": "Python",
+    "stars": "1,637"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "stars": "93,432"
+  },
+  {
+    "name": "bytedance/UI-TARS-desktop",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "description": "A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.",
+    "language": "TypeScript",
+    "stars": "13,620"
+  },
+  {
+    "name": "Mail-0/Zero",
+    "url": "https://github.com/Mail-0/Zero",
+    "description": "Experience email the way you want with 0 \u2013 the first open source email app that puts your privacy and safety first. Join the discord:https://discord.gg/0email",
+    "language": "TypeScript",
+    "stars": "7,253"
+  },
+  {
+    "name": "panaversity/learn-agentic-ai",
+    "url": "https://github.com/panaversity/learn-agentic-ai",
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.",
+    "language": "Jupyter Notebook",
+    "stars": "2,010"
+  }
+]
