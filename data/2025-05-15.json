@@ -1,0 +1,72 @@
+[
+  {
+    "name": "TapXWorld/ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+    "language": "Roff",
+    "stars": "10,730"
+  },
+  {
+    "name": "microsoft/BitNet",
+    "url": "https://github.com/microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "language": "C++",
+    "stars": "19,320"
+  },
+  {
+    "name": "mem0ai/mem0",
+    "url": "https://github.com/mem0ai/mem0",
+    "description": "Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.",
+    "language": "Python",
+    "stars": "29,884"
+  },
+  {
+    "name": "airweave-ai/airweave",
+    "url": "https://github.com/airweave-ai/airweave",
+    "description": "Airweave lets agents search any app",
+    "language": "Python",
+    "stars": "1,668"
+  },
+  {
+    "name": "alibaba/spring-ai-alibaba",
+    "url": "https://github.com/alibaba/spring-ai-alibaba",
+    "description": "Agentic AI Framework for Java Developers",
+    "language": "Java",
+    "stars": "3,073"
+  },
+  {
+    "name": "openai/simple-evals",
+    "url": "https://github.com/openai/simple-evals",
+    "description": "",
+    "language": "Python",
+    "stars": "3,214"
+  },
+  {
+    "name": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "\ud83c\udf93 Path to a free self-taught education in Computer Science!",
+    "language": "HTML",
+    "stars": "179,511"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "stars": "32,759"
+  },
+  {
+    "name": "xming521/WeClone",
+    "url": "https://github.com/xming521/WeClone",
+    "description": "\ud83d\ude80\u4ece\u804a\u5929\u8bb0\u5f55\u521b\u9020\u6570\u5b57\u5206\u8eab\u7684\u4e00\u7ad9\u5f0f\u89e3\u51b3\u65b9\u6848\ud83d\udca1 \u4f7f\u7528\u804a\u5929\u8bb0\u5f55\u5fae\u8c03\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u8ba9\u5927\u6a21\u578b\u6709\u201c\u90a3\u5473\u513f\u201d\uff0c\u5e76\u7ed1\u5b9a\u5230\u804a\u5929\u673a\u5668\u4eba\uff0c\u5b9e\u73b0\u81ea\u5df1\u7684\u6570\u5b57\u5206\u8eab\u3002 \u6570\u5b57\u514b\u9686/\u6570\u5b57\u5206\u8eab/\u6570\u5b57\u6c38\u751f/LLM/\u804a\u5929\u673a\u5668\u4eba/LoRA",
+    "language": "Python",
+    "stars": "7,501"
+  },
+  {
+    "name": "i-am-alice/3rd-devs",
+    "url": "https://github.com/i-am-alice/3rd-devs",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "394"
+  }
+]
