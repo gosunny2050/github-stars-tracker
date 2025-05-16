@@ -1,0 +1,72 @@
+[
+  {
+    "name": "TapXWorld/ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+    "language": "Roff",
+    "stars": "16,411"
+  },
+  {
+    "name": "xming521/WeClone",
+    "url": "https://github.com/xming521/WeClone",
+    "description": "\ud83d\ude80\u4ece\u804a\u5929\u8bb0\u5f55\u521b\u9020\u6570\u5b57\u5206\u8eab\u7684\u4e00\u7ad9\u5f0f\u89e3\u51b3\u65b9\u6848\ud83d\udca1 \u4f7f\u7528\u804a\u5929\u8bb0\u5f55\u5fae\u8c03\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u8ba9\u5927\u6a21\u578b\u6709\u201c\u90a3\u5473\u513f\u201d\uff0c\u5e76\u7ed1\u5b9a\u5230\u804a\u5929\u673a\u5668\u4eba\uff0c\u5b9e\u73b0\u81ea\u5df1\u7684\u6570\u5b57\u5206\u8eab\u3002 \u6570\u5b57\u514b\u9686/\u6570\u5b57\u5206\u8eab/\u6570\u5b57\u6c38\u751f/LLM/\u804a\u5929\u673a\u5668\u4eba/LoRA",
+    "language": "Python",
+    "stars": "8,672"
+  },
+  {
+    "name": "mem0ai/mem0",
+    "url": "https://github.com/mem0ai/mem0",
+    "description": "Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.",
+    "language": "Python",
+    "stars": "30,535"
+  },
+  {
+    "name": "microsoft/BitNet",
+    "url": "https://github.com/microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "language": "C++",
+    "stars": "19,485"
+  },
+  {
+    "name": "mikumifa/biliTickerBuy",
+    "url": "https://github.com/mikumifa/biliTickerBuy",
+    "description": "b\u7ad9 \u4f1a\u5458\u8d2d \u62a2\u7968 \u6f2b\u5c55 \u811a\u672c bilibili \u56fe\u5f62\u5316 \u7eaf\u63a5\u53e3 \u9a8c\u8bc1\u7801\u9884\u6f14\u7ec3\u4e60",
+    "language": "Python",
+    "stars": "1,527"
+  },
+  {
+    "name": "overleaf/overleaf",
+    "url": "https://github.com/overleaf/overleaf",
+    "description": "A web-based collaborative LaTeX editor",
+    "language": "JavaScript",
+    "stars": "15,542"
+  },
+  {
+    "name": "airweave-ai/airweave",
+    "url": "https://github.com/airweave-ai/airweave",
+    "description": "Airweave lets agents search any app",
+    "language": "Python",
+    "stars": "1,976"
+  },
+  {
+    "name": "openai/simple-evals",
+    "url": "https://github.com/openai/simple-evals",
+    "description": "",
+    "language": "Python",
+    "stars": "3,375"
+  },
+  {
+    "name": "mlabonne/llm-course",
+    "url": "https://github.com/mlabonne/llm-course",
+    "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "language": "Jupyter Notebook",
+    "stars": "51,438"
+  },
+  {
+    "name": "facebookresearch/fairchem",
+    "url": "https://github.com/facebookresearch/fairchem",
+    "description": "FAIR Chemistry's library of machine learning methods for chemistry",
+    "language": "Python",
+    "stars": "1,237"
+  }
+]
