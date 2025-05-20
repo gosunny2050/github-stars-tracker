@@ -1,0 +1,72 @@
+[
+  {
+    "name": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "stars": "29,864"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stars": "344,488"
+  },
+  {
+    "name": "CopilotKit/CopilotKit",
+    "url": "https://github.com/CopilotKit/CopilotKit",
+    "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile \ud83e\ude81",
+    "language": "TypeScript",
+    "stars": "19,538"
+  },
+  {
+    "name": "th-ch/youtube-music",
+    "url": "https://github.com/th-ch/youtube-music",
+    "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+    "language": "TypeScript",
+    "stars": "20,945"
+  },
+  {
+    "name": "Stirling-Tools/Stirling-PDF",
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+    "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+    "language": "Java",
+    "stars": "59,694"
+  },
+  {
+    "name": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
+    "language": "JavaScript",
+    "stars": "125,383"
+  },
+  {
+    "name": "kortix-ai/suna",
+    "url": "https://github.com/kortix-ai/suna",
+    "description": "Suna - Open Source Generalist AI Agent",
+    "language": "TypeScript",
+    "stars": "11,767"
+  },
+  {
+    "name": "zen-browser/desktop",
+    "url": "https://github.com/zen-browser/desktop",
+    "description": "Welcome to a calmer internet",
+    "language": "C++",
+    "stars": "30,514"
+  },
+  {
+    "name": "tinygrad/tinygrad",
+    "url": "https://github.com/tinygrad/tinygrad",
+    "description": "You like pytorch? You like micrograd? You love tinygrad! \u2764\ufe0f",
+    "language": "Python",
+    "stars": "29,002"
+  },
+  {
+    "name": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "stars": "67,112"
+  }
+]
