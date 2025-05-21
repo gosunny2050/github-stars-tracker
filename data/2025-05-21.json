@@ -1,0 +1,72 @@
+[
+  {
+    "name": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "stars": "31,316"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stars": "345,232"
+  },
+  {
+    "name": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "description": "The open-source Vercel alternative",
+    "language": "TypeScript",
+    "stars": "49,228"
+  },
+  {
+    "name": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "description": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "language": "Go",
+    "stars": "40,185"
+  },
+  {
+    "name": "ed-donner/llm_engineering",
+    "url": "https://github.com/ed-donner/llm_engineering",
+    "description": "Repo to accompany my mastering LLM engineering course",
+    "language": "Jupyter Notebook",
+    "stars": "2,113"
+  },
+  {
+    "name": "HeyPuter/puter",
+    "url": "https://github.com/HeyPuter/puter",
+    "description": "\ud83c\udf10 The Internet OS! Free, Open-Source, and Self-Hostable.",
+    "language": "JavaScript",
+    "stars": "31,322"
+  },
+  {
+    "name": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "stars": "67,355"
+  },
+  {
+    "name": "kortix-ai/suna",
+    "url": "https://github.com/kortix-ai/suna",
+    "description": "Suna - Open Source Generalist AI Agent",
+    "language": "TypeScript",
+    "stars": "12,103"
+  },
+  {
+    "name": "langgenius/dify",
+    "url": "https://github.com/langgenius/dify",
+    "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+    "language": "TypeScript",
+    "stars": "98,188"
+  },
+  {
+    "name": "colinhacks/zod",
+    "url": "https://github.com/colinhacks/zod",
+    "description": "TypeScript-first schema validation with static type inference",
+    "language": "TypeScript",
+    "stars": "37,991"
+  }
+]
