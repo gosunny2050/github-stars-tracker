@@ -1,0 +1,72 @@
+[
+  {
+    "name": "microsoft/WSL",
+    "url": "https://github.com/microsoft/WSL",
+    "description": "Windows Subsystem for Linux",
+    "language": "C++",
+    "stars": "25,539"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "stars": "32,003"
+  },
+  {
+    "name": "modelcontextprotocol/registry",
+    "url": "https://github.com/modelcontextprotocol/registry",
+    "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "language": "Go",
+    "stars": "526"
+  },
+  {
+    "name": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": "300,308"
+  },
+  {
+    "name": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "stars": "119,067"
+  },
+  {
+    "name": "antirez/kilo",
+    "url": "https://github.com/antirez/kilo",
+    "description": "A text editor in less than 1000 LOC with syntax highlight and search.",
+    "language": "C",
+    "stars": "8,120"
+  },
+  {
+    "name": "microsoft/semantic-kernel",
+    "url": "https://github.com/microsoft/semantic-kernel",
+    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+    "language": "C#",
+    "stars": "24,671"
+  },
+  {
+    "name": "Cysharp/ZLinq",
+    "url": "https://github.com/Cysharp/ZLinq",
+    "description": "Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.",
+    "language": "C#",
+    "stars": "3,312"
+  },
+  {
+    "name": "microsoft/WSL2-Linux-Kernel",
+    "url": "https://github.com/microsoft/WSL2-Linux-Kernel",
+    "description": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+    "language": "C",
+    "stars": "9,203"
+  },
+  {
+    "name": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "description": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "language": "Go",
+    "stars": "40,592"
+  }
+]
