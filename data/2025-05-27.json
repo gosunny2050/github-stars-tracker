@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Fosowl/agenticSeek",
+    "url": "https://github.com/Fosowl/agenticSeek",
+    "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",
+    "language": "Python",
+    "stars": "7,294"
+  },
+  {
+    "name": "groupultra/telegram-search",
+    "url": "https://github.com/groupultra/telegram-search",
+    "description": "\ud83d\udd0d \u4e00\u4e2a\u529f\u80fd\u5f3a\u5927\u7684 Telegram \u804a\u5929\u8bb0\u5f55\u641c\u7d22\u5ba2\u6237\u7aef\uff0c\u652f\u6301\u804a\u5929\u8bb0\u5f55\u5907\u4efd\u548c\u5411\u91cf\u641c\u7d22\u3002",
+    "language": "TypeScript",
+    "stars": "1,732"
+  },
+  {
+    "name": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.",
+    "language": "Python",
+    "stars": "22,210"
+  },
+  {
+    "name": "mlabonne/llm-course",
+    "url": "https://github.com/mlabonne/llm-course",
+    "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "language": "Jupyter Notebook",
+    "stars": "52,978"
+  },
+  {
+    "name": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "description": "The Free Software Media System - Server Backend & API",
+    "language": "C#",
+    "stars": "40,051"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "stars": "94,163"
+  },
+  {
+    "name": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "stars": "323,607"
+  },
+  {
+    "name": "lobehub/lobe-chat",
+    "url": "https://github.com/lobehub/lobe-chat",
+    "description": "\ud83e\udd2f Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.",
+    "language": "TypeScript",
+    "stars": "61,596"
+  },
+  {
+    "name": "XiaoYouChR/Ghost-Downloader-3",
+    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+    "description": "A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.",
+    "language": "Python",
+    "stars": "2,405"
+  },
+  {
+    "name": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need",
+    "language": "Python",
+    "stars": "30,175"
+  }
+]
