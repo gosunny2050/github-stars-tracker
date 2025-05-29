@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Fosowl/agenticSeek",
+    "url": "https://github.com/Fosowl/agenticSeek",
+    "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",
+    "language": "Python",
+    "stars": "11,927"
+  },
+  {
+    "name": "duixcom/Duix.mobile",
+    "url": "https://github.com/duixcom/Duix.mobile",
+    "description": "",
+    "language": "C++",
+    "stars": "6,552"
+  },
+  {
+    "name": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "\ud83c\udf93 Path to a free self-taught education in Computer Science!",
+    "language": "HTML",
+    "stars": "184,128"
+  },
+  {
+    "name": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.",
+    "language": "Python",
+    "stars": "22,986"
+  },
+  {
+    "name": "langflow-ai/langflow",
+    "url": "https://github.com/langflow-ai/langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "language": "Python",
+    "stars": "65,437"
+  },
+  {
+    "name": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "language": "TypeScript",
+    "stars": "100,461"
+  },
+  {
+    "name": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "description": "\u57fa\u4e8e\u5927\u6a21\u578b\u642d\u5efa\u7684\u804a\u5929\u673a\u5668\u4eba\uff0c\u540c\u65f6\u652f\u6301 \u5fae\u4fe1\u516c\u4f17\u53f7\u3001\u4f01\u4e1a\u5fae\u4fe1\u5e94\u7528\u3001\u98de\u4e66\u3001\u9489\u9489 \u7b49\u63a5\u5165\uff0c\u53ef\u9009\u62e9GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/\u6587\u5fc3\u4e00\u8a00/\u8baf\u98de\u661f\u706b/\u901a\u4e49\u5343\u95ee/ Gemini/GLM-4/Kimi/LinkAI\uff0c\u80fd\u5904\u7406\u6587\u672c\u3001\u8bed\u97f3\u548c\u56fe\u7247\uff0c\u8bbf\u95ee\u64cd\u4f5c\u7cfb\u7edf\u548c\u4e92\u8054\u7f51\uff0c\u652f\u6301\u57fa\u4e8e\u81ea\u6709\u77e5\u8bc6\u5e93\u8fdb\u884c\u5b9a\u5236\u4f01\u4e1a\u667a\u80fd\u5ba2\u670d\u3002",
+    "language": "Python",
+    "stars": "37,108"
+  },
+  {
+    "name": "NomicFoundation/hardhat",
+    "url": "https://github.com/NomicFoundation/hardhat",
+    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.",
+    "language": "TypeScript",
+    "stars": "7,780"
+  },
+  {
+    "name": "microsoft/RD-Agent",
+    "url": "https://github.com/microsoft/RD-Agent",
+    "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. \ud83d\udd17https://aka.ms/RD-Agent-Tech-Report",
+    "language": "Python",
+    "stars": "5,186"
+  },
+  {
+    "name": "actions/runner-images",
+    "url": "https://github.com/actions/runner-images",
+    "description": "GitHub Actions runner images",
+    "language": "PowerShell",
+    "stars": "11,169"
+  }
+]
