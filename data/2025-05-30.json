@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Fosowl/agenticSeek",
+    "url": "https://github.com/Fosowl/agenticSeek",
+    "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",
+    "language": "Python",
+    "stars": "13,101"
+  },
+  {
+    "name": "WhiskeySockets/Baileys",
+    "url": "https://github.com/WhiskeySockets/Baileys",
+    "description": "Lightweight full-featured typescript/javascript WhatsApp Web API",
+    "language": "JavaScript",
+    "stars": "5,602"
+  },
+  {
+    "name": "vuejs/core",
+    "url": "https://github.com/vuejs/core",
+    "description": "\ud83d\udd96 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "language": "TypeScript",
+    "stars": "50,260"
+  },
+  {
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+    "language": "Jupyter Notebook",
+    "stars": "4,781"
+  },
+  {
+    "name": "livestorejs/livestore",
+    "url": "https://github.com/livestorejs/livestore",
+    "description": "LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.",
+    "language": "TypeScript",
+    "stars": "1,521"
+  },
+  {
+    "name": "microsoft/ai-agents-for-beginners",
+    "url": "https://github.com/microsoft/ai-agents-for-beginners",
+    "description": "11 Lessons to Get Started Building AI Agents",
+    "language": "Jupyter Notebook",
+    "stars": "22,282"
+  },
+  {
+    "name": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "\ud83c\udf93 Path to a free self-taught education in Computer Science!",
+    "language": "HTML",
+    "stars": "184,447"
+  },
+  {
+    "name": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "language": "TypeScript",
+    "stars": "101,122"
+  },
+  {
+    "name": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "",
+    "stars": "170,939"
+  },
+  {
+    "name": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+    "language": "Dart",
+    "stars": "63,457"
+  }
+]
