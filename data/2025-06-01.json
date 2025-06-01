@@ -1,0 +1,72 @@
+[
+  {
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+    "language": "Jupyter Notebook",
+    "stars": "6,892"
+  },
+  {
+    "name": "onlook-dev/onlook",
+    "url": "https://github.com/onlook-dev/onlook",
+    "description": "The Cursor for Designers \u2022 An Open-Source Visual Vibecoding Editor \u2022 Visually build, style, and edit your React App with AI",
+    "language": "TypeScript",
+    "stars": "10,040"
+  },
+  {
+    "name": "aaPanel/BillionMail",
+    "url": "https://github.com/aaPanel/BillionMail",
+    "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing \u2014 fully self-hosted, dev-friendly, and free from monthly fees. Join the discord:https://discord.gg/fD6rDkDV",
+    "language": "Go",
+    "stars": "3,844"
+  },
+  {
+    "name": "fastapi/fastapi",
+    "url": "https://github.com/fastapi/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "language": "Python",
+    "stars": "85,716"
+  },
+  {
+    "name": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "stars": "97,545"
+  },
+  {
+    "name": "anthropics/anthropic-cookbook",
+    "url": "https://github.com/anthropics/anthropic-cookbook",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "language": "Jupyter Notebook",
+    "stars": "12,710"
+  },
+  {
+    "name": "microsoft/ai-agents-for-beginners",
+    "url": "https://github.com/microsoft/ai-agents-for-beginners",
+    "description": "11 Lessons to Get Started Building AI Agents",
+    "language": "Jupyter Notebook",
+    "stars": "23,141"
+  },
+  {
+    "name": "frdel/agent-zero",
+    "url": "https://github.com/frdel/agent-zero",
+    "description": "Agent Zero AI framework",
+    "language": "Python",
+    "stars": "7,021"
+  },
+  {
+    "name": "syncthing/syncthing",
+    "url": "https://github.com/syncthing/syncthing",
+    "description": "Open Source Continuous File Synchronization",
+    "language": "Go",
+    "stars": "70,923"
+  },
+  {
+    "name": "microsoft/generative-ai-for-beginners",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI \ud83d\udd17https://microsoft.github.io/generative-ai-for-beginners/",
+    "language": "Jupyter Notebook",
+    "stars": "84,364"
+  }
+]
