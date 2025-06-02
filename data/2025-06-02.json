@@ -1,0 +1,72 @@
+[
+  {
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+    "language": "Jupyter Notebook",
+    "stars": "8,032"
+  },
+  {
+    "name": "anthropics/courses",
+    "url": "https://github.com/anthropics/courses",
+    "description": "Anthropic's educational courses",
+    "language": "Jupyter Notebook",
+    "stars": "13,500"
+  },
+  {
+    "name": "frdel/agent-zero",
+    "url": "https://github.com/frdel/agent-zero",
+    "description": "Agent Zero AI framework",
+    "language": "Python",
+    "stars": "7,370"
+  },
+  {
+    "name": "onlook-dev/onlook",
+    "url": "https://github.com/onlook-dev/onlook",
+    "description": "The Cursor for Designers \u2022 An Open-Source Visual Vibecoding Editor \u2022 Visually build, style, and edit your React App with AI",
+    "language": "TypeScript",
+    "stars": "10,478"
+  },
+  {
+    "name": "imputnet/cobalt",
+    "url": "https://github.com/imputnet/cobalt",
+    "description": "best way to save what you love",
+    "language": "Svelte",
+    "stars": "32,952"
+  },
+  {
+    "name": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": "302,232"
+  },
+  {
+    "name": "Flowseal/zapret-discord-youtube",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": "13,182"
+  },
+  {
+    "name": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "description": "Create Reddit Videos with just\u2728 one command \u2728",
+    "language": "Python",
+    "stars": "7,159"
+  },
+  {
+    "name": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "",
+    "stars": "172,001"
+  },
+  {
+    "name": "microsoft/ai-agents-for-beginners",
+    "url": "https://github.com/microsoft/ai-agents-for-beginners",
+    "description": "11 Lessons to Get Started Building AI Agents",
+    "language": "Jupyter Notebook",
+    "stars": "23,606"
+  }
+]
