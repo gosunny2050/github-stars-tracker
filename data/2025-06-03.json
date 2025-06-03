@@ -1,0 +1,72 @@
+[
+  {
+    "name": "onlook-dev/onlook",
+    "url": "https://github.com/onlook-dev/onlook",
+    "description": "The Cursor for Designers \u2022 An Open-Source Visual Vibecoding Editor \u2022 Visually build, style, and edit your React App with AI",
+    "language": "TypeScript",
+    "stars": "12,172"
+  },
+  {
+    "name": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": "302,924"
+  },
+  {
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+    "language": "Jupyter Notebook",
+    "stars": "8,949"
+  },
+  {
+    "name": "gitroomhq/postiz-app",
+    "url": "https://github.com/gitroomhq/postiz-app",
+    "description": "\ud83d\udce8 The ultimate social media scheduling tool, with a bunch of AI \ud83e\udd16",
+    "language": "TypeScript",
+    "stars": "20,292"
+  },
+  {
+    "name": "nautechsystems/nautilus_trader",
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester",
+    "language": "Python",
+    "stars": "6,477"
+  },
+  {
+    "name": "syncthing/syncthing",
+    "url": "https://github.com/syncthing/syncthing",
+    "description": "Open Source Continuous File Synchronization",
+    "language": "Go",
+    "stars": "71,509"
+  },
+  {
+    "name": "MODSetter/SurfSense",
+    "url": "https://github.com/MODSetter/SurfSense",
+    "description": "Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.",
+    "language": "TypeScript",
+    "stars": "5,042"
+  },
+  {
+    "name": "anthropics/courses",
+    "url": "https://github.com/anthropics/courses",
+    "description": "Anthropic's educational courses",
+    "language": "Jupyter Notebook",
+    "stars": "14,065"
+  },
+  {
+    "name": "frdel/agent-zero",
+    "url": "https://github.com/frdel/agent-zero",
+    "description": "Agent Zero AI framework",
+    "language": "Python",
+    "stars": "7,760"
+  },
+  {
+    "name": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "description": "Create Reddit Videos with just\u2728 one command \u2728",
+    "language": "Python",
+    "stars": "7,389"
+  }
+]
