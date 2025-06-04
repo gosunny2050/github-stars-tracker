@@ -1,0 +1,72 @@
+[
+  {
+    "name": "onlook-dev/onlook",
+    "url": "https://github.com/onlook-dev/onlook",
+    "description": "The Cursor for Designers \u2022 An Open-Source Visual Vibecoding Editor \u2022 Visually build, style, and edit your React App with AI",
+    "language": "TypeScript",
+    "stars": "14,165"
+  },
+  {
+    "name": "nautechsystems/nautilus_trader",
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester",
+    "language": "Python",
+    "stars": "7,165"
+  },
+  {
+    "name": "frdel/agent-zero",
+    "url": "https://github.com/frdel/agent-zero",
+    "description": "Agent Zero AI framework",
+    "language": "Python",
+    "stars": "8,138"
+  },
+  {
+    "name": "DataExpert-io/data-engineer-handbook",
+    "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+    "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Jupyter Notebook",
+    "stars": "28,823"
+  },
+  {
+    "name": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": "303,638"
+  },
+  {
+    "name": "gitroomhq/postiz-app",
+    "url": "https://github.com/gitroomhq/postiz-app",
+    "description": "\ud83d\udce8 The ultimate social media scheduling tool, with a bunch of AI \ud83e\udd16",
+    "language": "TypeScript",
+    "stars": "20,634"
+  },
+  {
+    "name": "plankanban/planka",
+    "url": "https://github.com/plankanban/planka",
+    "description": "PLANKA is the kanban-style project mastering tool for everyone.",
+    "language": "JavaScript",
+    "stars": "9,534"
+  },
+  {
+    "name": "black-forest-labs/flux",
+    "url": "https://github.com/black-forest-labs/flux",
+    "description": "Official inference repo for FLUX.1 models",
+    "language": "Python",
+    "stars": "22,089"
+  },
+  {
+    "name": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "description": "Create Reddit Videos with just\u2728 one command \u2728",
+    "language": "Python",
+    "stars": "7,616"
+  },
+  {
+    "name": "WordPress/gutenberg",
+    "url": "https://github.com/WordPress/gutenberg",
+    "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+    "language": "JavaScript",
+    "stars": "11,214"
+  }
+]
