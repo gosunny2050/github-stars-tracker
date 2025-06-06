@@ -1,0 +1,72 @@
+[
+  {
+    "name": "frdel/agent-zero",
+    "url": "https://github.com/frdel/agent-zero",
+    "description": "Agent Zero AI framework",
+    "language": "Python",
+    "stars": "8,848"
+  },
+  {
+    "name": "nautechsystems/nautilus_trader",
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester",
+    "language": "Python",
+    "stars": "7,927"
+  },
+  {
+    "name": "scrapy/scrapy",
+    "url": "https://github.com/scrapy/scrapy",
+    "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+    "language": "Python",
+    "stars": "56,170"
+  },
+  {
+    "name": "onlook-dev/onlook",
+    "url": "https://github.com/onlook-dev/onlook",
+    "description": "The Cursor for Designers \u2022 An Open-Source Visual Vibecoding Editor \u2022 Visually build, style, and edit your React App with AI",
+    "language": "TypeScript",
+    "stars": "16,648"
+  },
+  {
+    "name": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "description": "\u7a0b\u5e8f\u5458\u5728\u5bb6\u505a\u996d\u65b9\u6cd5\u6307\u5357\u3002Programmer's guide about how to cook at home (Simplified Chinese only).",
+    "language": "Dockerfile",
+    "stars": "87,981"
+  },
+  {
+    "name": "netbirdio/netbird",
+    "url": "https://github.com/netbirdio/netbird",
+    "description": "Connect your devices into a secure WireGuard\u00ae-based overlay network with SSO, MFA and granular access controls.",
+    "language": "Go",
+    "stars": "14,133"
+  },
+  {
+    "name": "iamgio/quarkdown",
+    "url": "https://github.com/iamgio/quarkdown",
+    "description": "\ud83e\ude90 Markdown with superpowers \u2014 from ideas to presentations, articles and books.",
+    "language": "Kotlin",
+    "stars": "4,397"
+  },
+  {
+    "name": "TapXWorld/ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+    "language": "Roff",
+    "stars": "36,404"
+  },
+  {
+    "name": "ArduPilot/ardupilot",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "language": "C++",
+    "stars": "12,589"
+  },
+  {
+    "name": "topoteretes/cognee",
+    "url": "https://github.com/topoteretes/cognee",
+    "description": "Memory for AI Agents in 5 lines of code",
+    "language": "Python",
+    "stars": "2,937"
+  }
+]
