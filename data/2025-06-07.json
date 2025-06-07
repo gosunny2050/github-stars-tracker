@@ -1,0 +1,72 @@
+[
+  {
+    "name": "netbirdio/netbird",
+    "url": "https://github.com/netbirdio/netbird",
+    "description": "Connect your devices into a secure WireGuard\u00ae-based overlay network with SSO, MFA and granular access controls.",
+    "language": "Go",
+    "stars": "14,719"
+  },
+  {
+    "name": "lastmile-ai/mcp-agent",
+    "url": "https://github.com/lastmile-ai/mcp-agent",
+    "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+    "language": "Python",
+    "stars": "5,320"
+  },
+  {
+    "name": "topoteretes/cognee",
+    "url": "https://github.com/topoteretes/cognee",
+    "description": "Memory for AI Agents in 5 lines of code",
+    "language": "Python",
+    "stars": "3,397"
+  },
+  {
+    "name": "stanfordnlp/dspy",
+    "url": "https://github.com/stanfordnlp/dspy",
+    "description": "DSPy: The framework for programming\u2014not prompting\u2014language models",
+    "language": "Python",
+    "stars": "24,894"
+  },
+  {
+    "name": "codexu/note-gen",
+    "url": "https://github.com/codexu/note-gen",
+    "description": "A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.",
+    "language": "TypeScript",
+    "stars": "3,336"
+  },
+  {
+    "name": "unslothai/notebooks",
+    "url": "https://github.com/unslothai/notebooks",
+    "description": "Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.",
+    "language": "Jupyter Notebook",
+    "stars": "1,343"
+  },
+  {
+    "name": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "",
+    "stars": "319,291"
+  },
+  {
+    "name": "deepsense-ai/ragbits",
+    "url": "https://github.com/deepsense-ai/ragbits",
+    "description": "Building blocks for rapid development of GenAI applications",
+    "language": "Python",
+    "stars": "885"
+  },
+  {
+    "name": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "language": "Rust",
+    "stars": "90,008"
+  },
+  {
+    "name": "coleam00/Archon",
+    "url": "https://github.com/coleam00/Archon",
+    "description": "Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.",
+    "language": "Python",
+    "stars": "4,725"
+  }
+]
