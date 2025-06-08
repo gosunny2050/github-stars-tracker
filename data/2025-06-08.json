@@ -1,0 +1,72 @@
+[
+  {
+    "name": "topoteretes/cognee",
+    "url": "https://github.com/topoteretes/cognee",
+    "description": "Memory for AI Agents in 5 lines of code",
+    "language": "Python",
+    "stars": "4,169"
+  },
+  {
+    "name": "netbirdio/netbird",
+    "url": "https://github.com/netbirdio/netbird",
+    "description": "Connect your devices into a secure WireGuard\u00ae-based overlay network with SSO, MFA and granular access controls.",
+    "language": "Go",
+    "stars": "15,031"
+  },
+  {
+    "name": "codexu/note-gen",
+    "url": "https://github.com/codexu/note-gen",
+    "description": "A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.",
+    "language": "TypeScript",
+    "stars": "3,639"
+  },
+  {
+    "name": "scrapy/scrapy",
+    "url": "https://github.com/scrapy/scrapy",
+    "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+    "language": "Python",
+    "stars": "56,514"
+  },
+  {
+    "name": "DavidHDev/react-bits",
+    "url": "https://github.com/DavidHDev/react-bits",
+    "description": "An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.",
+    "language": "JavaScript",
+    "stars": "12,926"
+  },
+  {
+    "name": "jwohlwend/boltz",
+    "url": "https://github.com/jwohlwend/boltz",
+    "description": "Official repository for the Boltz biomolecular interaction models",
+    "language": "Python",
+    "stars": "2,038"
+  },
+  {
+    "name": "deepsense-ai/ragbits",
+    "url": "https://github.com/deepsense-ai/ragbits",
+    "description": "Building blocks for rapid development of GenAI applications",
+    "language": "Python",
+    "stars": "1,048"
+  },
+  {
+    "name": "stanfordnlp/dspy",
+    "url": "https://github.com/stanfordnlp/dspy",
+    "description": "DSPy: The framework for programming\u2014not prompting\u2014language models",
+    "language": "Python",
+    "stars": "25,000"
+  },
+  {
+    "name": "Daymychen/art-design-pro",
+    "url": "https://github.com/Daymychen/art-design-pro",
+    "description": "A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin \u2014 focused on user experience and visual design.",
+    "language": "Vue",
+    "stars": "1,784"
+  },
+  {
+    "name": "langgenius/dify",
+    "url": "https://github.com/langgenius/dify",
+    "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+    "language": "TypeScript",
+    "stars": "101,898"
+  }
+]
