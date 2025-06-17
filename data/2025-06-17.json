@@ -1,0 +1,72 @@
+[
+  {
+    "name": "microsoft/fluentui-system-icons",
+    "url": "https://github.com/microsoft/fluentui-system-icons",
+    "description": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.",
+    "language": "HTML",
+    "stars": "7,053"
+  },
+  {
+    "name": "anthropics/anthropic-cookbook",
+    "url": "https://github.com/anthropics/anthropic-cookbook",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "language": "Jupyter Notebook",
+    "stars": "13,992"
+  },
+  {
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+    "language": "Jupyter Notebook",
+    "stars": "12,821"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "43,327"
+  },
+  {
+    "name": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "language": "TypeScript",
+    "stars": "68,300"
+  },
+  {
+    "name": "huggingface/lerobot",
+    "url": "https://github.com/huggingface/lerobot",
+    "description": "\ud83e\udd17 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+    "language": "Python",
+    "stars": "14,766"
+  },
+  {
+    "name": "gtsteffaniak/filebrowser",
+    "url": "https://github.com/gtsteffaniak/filebrowser",
+    "description": "\ud83d\udcc2 Web File Browser",
+    "language": "Go",
+    "stars": "1,688"
+  },
+  {
+    "name": "zen-browser/desktop",
+    "url": "https://github.com/zen-browser/desktop",
+    "description": "Welcome to a calmer internet",
+    "language": "C++",
+    "stars": "33,035"
+  },
+  {
+    "name": "linshenkx/prompt-optimizer",
+    "url": "https://github.com/linshenkx/prompt-optimizer",
+    "description": "\u4e00\u6b3e\u63d0\u793a\u8bcd\u4f18\u5316\u5668\uff0c\u52a9\u529b\u4e8e\u7f16\u5199\u9ad8\u8d28\u91cf\u7684\u63d0\u793a\u8bcd",
+    "language": "TypeScript",
+    "stars": "6,203"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "stars": "36,616"
+  }
+]
