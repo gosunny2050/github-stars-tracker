@@ -1,0 +1,58 @@
+[
+  {
+    "name": "microsoft/fluentui-system-icons",
+    "url": "https://github.com/microsoft/fluentui-system-icons",
+    "description": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.",
+    "language": "HTML",
+    "stars": "8,206"
+  },
+  {
+    "name": "menloresearch/jan",
+    "url": "https://github.com/menloresearch/jan",
+    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+    "language": "TypeScript",
+    "stars": "30,838"
+  },
+  {
+    "name": "anthropics/anthropic-cookbook",
+    "url": "https://github.com/anthropics/anthropic-cookbook",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "language": "Jupyter Notebook",
+    "stars": "14,733"
+  },
+  {
+    "name": "infiniflow/ragflow",
+    "url": "https://github.com/infiniflow/ragflow",
+    "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+    "language": "Python",
+    "stars": "56,465"
+  },
+  {
+    "name": "deepseek-ai/DeepEP",
+    "url": "https://github.com/deepseek-ai/DeepEP",
+    "description": "DeepEP: an efficient expert-parallel communication library",
+    "language": "Cuda",
+    "stars": "7,883"
+  },
+  {
+    "name": "automatisch/automatisch",
+    "url": "https://github.com/automatisch/automatisch",
+    "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+    "language": "JavaScript",
+    "stars": "9,257"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "43,866"
+  },
+  {
+    "name": "continuedev/continue",
+    "url": "https://github.com/continuedev/continue",
+    "description": "\u23e9 Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks",
+    "language": "TypeScript",
+    "stars": "27,104"
+  }
+]
