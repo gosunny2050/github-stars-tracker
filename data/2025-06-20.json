@@ -1,0 +1,72 @@
+[
+  {
+    "name": "DataExpert-io/data-engineer-handbook",
+    "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+    "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Jupyter Notebook",
+    "stars": "31,399"
+  },
+  {
+    "name": "menloresearch/jan",
+    "url": "https://github.com/menloresearch/jan",
+    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+    "language": "TypeScript",
+    "stars": "32,160"
+  },
+  {
+    "name": "dail8859/NotepadNext",
+    "url": "https://github.com/dail8859/NotepadNext",
+    "description": "A cross-platform, reimplementation of Notepad++",
+    "language": "C++",
+    "stars": "10,749"
+  },
+  {
+    "name": "automatisch/automatisch",
+    "url": "https://github.com/automatisch/automatisch",
+    "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+    "language": "JavaScript",
+    "stars": "10,995"
+  },
+  {
+    "name": "microsoft/fluentui-system-icons",
+    "url": "https://github.com/microsoft/fluentui-system-icons",
+    "description": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.",
+    "language": "HTML",
+    "stars": "8,864"
+  },
+  {
+    "name": "kortix-ai/suna",
+    "url": "https://github.com/kortix-ai/suna",
+    "description": "Suna - Open Source Generalist AI Agent",
+    "language": "TypeScript",
+    "stars": "14,892"
+  },
+  {
+    "name": "cloudflare/ai",
+    "url": "https://github.com/cloudflare/ai",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "464"
+  },
+  {
+    "name": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "stars": "85,321"
+  },
+  {
+    "name": "deepseek-ai/DeepEP",
+    "url": "https://github.com/deepseek-ai/DeepEP",
+    "description": "DeepEP: an efficient expert-parallel communication library",
+    "language": "Cuda",
+    "stars": "8,115"
+  },
+  {
+    "name": "php/frankenphp",
+    "url": "https://github.com/php/frankenphp",
+    "description": "\ud83e\udddf The modern PHP app server",
+    "language": "Go",
+    "stars": "8,787"
+  }
+]
