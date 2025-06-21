@@ -1,0 +1,72 @@
+[
+  {
+    "name": "DataExpert-io/data-engineer-handbook",
+    "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+    "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Jupyter Notebook",
+    "stars": "32,754"
+  },
+  {
+    "name": "dail8859/NotepadNext",
+    "url": "https://github.com/dail8859/NotepadNext",
+    "description": "A cross-platform, reimplementation of Notepad++",
+    "language": "C++",
+    "stars": "10,964"
+  },
+  {
+    "name": "automatisch/automatisch",
+    "url": "https://github.com/automatisch/automatisch",
+    "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+    "language": "JavaScript",
+    "stars": "11,218"
+  },
+  {
+    "name": "php/frankenphp",
+    "url": "https://github.com/php/frankenphp",
+    "description": "\ud83e\udddf The modern PHP app server",
+    "language": "Go",
+    "stars": "8,936"
+  },
+  {
+    "name": "YimMenu/YimMenuV2",
+    "url": "https://github.com/YimMenu/YimMenuV2",
+    "description": "Experimental menu for GTA 5: Enhanced",
+    "language": "C++",
+    "stars": "446"
+  },
+  {
+    "name": "grafana/loki",
+    "url": "https://github.com/grafana/loki",
+    "description": "Like Prometheus, but for logs.",
+    "language": "Go",
+    "stars": "25,762"
+  },
+  {
+    "name": "Mail-0/Zero",
+    "url": "https://github.com/Mail-0/Zero",
+    "description": "Experience email the way you want with Mail0 \u2013 the first open source email app that puts your privacy and safety first. Join the discord:https://discord.gg/mail0",
+    "language": "TypeScript",
+    "stars": "8,306"
+  },
+  {
+    "name": "vllm-project/vllm",
+    "url": "https://github.com/vllm-project/vllm",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "language": "Python",
+    "stars": "50,319"
+  },
+  {
+    "name": "gabime/spdlog",
+    "url": "https://github.com/gabime/spdlog",
+    "description": "Fast C++ logging library.",
+    "language": "C++",
+    "stars": "26,458"
+  },
+  {
+    "name": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "language": "TypeScript",
+    "stars": "109,729"
+  }
+]
