@@ -1,0 +1,72 @@
+[
+  {
+    "name": "typst/typst",
+    "url": "https://github.com/typst/typst",
+    "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "language": "Rust",
+    "stars": "42,440"
+  },
+  {
+    "name": "patchy631/ai-engineering-hub",
+    "url": "https://github.com/patchy631/ai-engineering-hub",
+    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+    "language": "Jupyter Notebook",
+    "stars": "11,032"
+  },
+  {
+    "name": "dail8859/NotepadNext",
+    "url": "https://github.com/dail8859/NotepadNext",
+    "description": "A cross-platform, reimplementation of Notepad++",
+    "language": "C++",
+    "stars": "11,144"
+  },
+  {
+    "name": "DataExpert-io/data-engineer-handbook",
+    "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+    "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Jupyter Notebook",
+    "stars": "33,291"
+  },
+  {
+    "name": "rasbt/LLMs-from-scratch",
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "language": "Jupyter Notebook",
+    "stars": "52,205"
+  },
+  {
+    "name": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "description": "Telegram for Android source",
+    "language": "Java",
+    "stars": "26,354"
+  },
+  {
+    "name": "cyclotruc/gitingest",
+    "url": "https://github.com/cyclotruc/gitingest",
+    "description": "Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase",
+    "language": "Python",
+    "stars": "9,695"
+  },
+  {
+    "name": "ourongxing/newsnow",
+    "url": "https://github.com/ourongxing/newsnow",
+    "description": "Elegant reading of real-time and hottest news",
+    "language": "TypeScript",
+    "stars": "11,451"
+  },
+  {
+    "name": "n8n-io/self-hosted-ai-starter-kit",
+    "url": "https://github.com/n8n-io/self-hosted-ai-starter-kit",
+    "description": "The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.",
+    "language": "",
+    "stars": "9,779"
+  },
+  {
+    "name": "unionlabs/union",
+    "url": "https://github.com/unionlabs/union",
+    "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+    "language": "Rust",
+    "stars": "68,053"
+  }
+]
