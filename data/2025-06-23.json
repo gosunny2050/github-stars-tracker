@@ -1,0 +1,72 @@
+[
+  {
+    "name": "rasbt/LLMs-from-scratch",
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "language": "Jupyter Notebook",
+    "stars": "53,452"
+  },
+  {
+    "name": "patchy631/ai-engineering-hub",
+    "url": "https://github.com/patchy631/ai-engineering-hub",
+    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+    "language": "Jupyter Notebook",
+    "stars": "11,579"
+  },
+  {
+    "name": "ManimCommunity/manim",
+    "url": "https://github.com/ManimCommunity/manim",
+    "description": "A community-maintained Python framework for creating mathematical animations.",
+    "language": "Python",
+    "stars": "32,794"
+  },
+  {
+    "name": "microsoft/edit",
+    "url": "https://github.com/microsoft/edit",
+    "description": "We all edit.",
+    "language": "Rust",
+    "stars": "9,065"
+  },
+  {
+    "name": "mikumifa/biliTickerBuy",
+    "url": "https://github.com/mikumifa/biliTickerBuy",
+    "description": "b\u7ad9\u4f1a\u5458\u8d2d\u8d2d\u7968\u8f85\u52a9\u5de5\u5177",
+    "language": "Python",
+    "stars": "2,133"
+  },
+  {
+    "name": "kortix-ai/suna",
+    "url": "https://github.com/kortix-ai/suna",
+    "description": "Suna - Open Source Generalist AI Agent",
+    "language": "TypeScript",
+    "stars": "15,384"
+  },
+  {
+    "name": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "description": "Telegram for Android source",
+    "language": "Java",
+    "stars": "26,417"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "Shell",
+    "stars": "14,531"
+  },
+  {
+    "name": "DataExpert-io/data-engineer-handbook",
+    "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+    "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Jupyter Notebook",
+    "stars": "33,584"
+  },
+  {
+    "name": "cyclotruc/gitingest",
+    "url": "https://github.com/cyclotruc/gitingest",
+    "description": "Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase",
+    "language": "Python",
+    "stars": "9,949"
+  }
+]
