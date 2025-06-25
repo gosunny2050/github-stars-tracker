@@ -1,0 +1,72 @@
+[
+  {
+    "name": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "description": "Telegram for Android source",
+    "language": "Java",
+    "stars": "26,682"
+  },
+  {
+    "name": "patchy631/ai-engineering-hub",
+    "url": "https://github.com/patchy631/ai-engineering-hub",
+    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+    "language": "Jupyter Notebook",
+    "stars": "12,297"
+  },
+  {
+    "name": "microsoft/edit",
+    "url": "https://github.com/microsoft/edit",
+    "description": "We all edit.",
+    "language": "Rust",
+    "stars": "9,858"
+  },
+  {
+    "name": "HarbourMasters/SpaghettiKart",
+    "url": "https://github.com/HarbourMasters/SpaghettiKart",
+    "description": "",
+    "language": "C",
+    "stars": "1,031"
+  },
+  {
+    "name": "jujumilk3/leaked-system-prompts",
+    "url": "https://github.com/jujumilk3/leaked-system-prompts",
+    "description": "Collection of leaked system prompts",
+    "language": "",
+    "stars": "10,143"
+  },
+  {
+    "name": "musistudio/claude-code-router",
+    "url": "https://github.com/musistudio/claude-code-router",
+    "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+    "language": "TypeScript",
+    "stars": "1,492"
+  },
+  {
+    "name": "isledecomp/isle-portable",
+    "url": "https://github.com/isledecomp/isle-portable",
+    "description": "A portable version of LEGO Island (1997)",
+    "language": "C++",
+    "stars": "642"
+  },
+  {
+    "name": "typst/typst",
+    "url": "https://github.com/typst/typst",
+    "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "language": "Rust",
+    "stars": "43,128"
+  },
+  {
+    "name": "Effect-TS/effect",
+    "url": "https://github.com/Effect-TS/effect",
+    "description": "Build production-ready applications in TypeScript",
+    "language": "TypeScript",
+    "stars": "9,733"
+  },
+  {
+    "name": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+    "language": "TypeScript",
+    "stars": "73,927"
+  }
+]
