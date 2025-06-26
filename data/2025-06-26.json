@@ -1,0 +1,72 @@
+[
+  {
+    "name": "DioxusLabs/dioxus",
+    "url": "https://github.com/DioxusLabs/dioxus",
+    "description": "Fullstack app framework for web, desktop, and mobile.",
+    "language": "Rust",
+    "stars": "28,566"
+  },
+  {
+    "name": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "description": "Next generation frontend tooling. It's fast!",
+    "language": "TypeScript",
+    "stars": "73,672"
+  },
+  {
+    "name": "musistudio/claude-code-router",
+    "url": "https://github.com/musistudio/claude-code-router",
+    "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+    "language": "TypeScript",
+    "stars": "1,799"
+  },
+  {
+    "name": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "description": "\u2728 Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+    "language": "TypeScript",
+    "stars": "38,144"
+  },
+  {
+    "name": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "stars": "100,371"
+  },
+  {
+    "name": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "description": "\ud83d\udd17 Some useful websites for programmers.",
+    "language": "",
+    "stars": "68,471"
+  },
+  {
+    "name": "jujumilk3/leaked-system-prompts",
+    "url": "https://github.com/jujumilk3/leaked-system-prompts",
+    "description": "Collection of leaked system prompts",
+    "language": "",
+    "stars": "10,489"
+  },
+  {
+    "name": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "description": "\ud83c\udfc6 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "language": "",
+    "stars": "20,953"
+  },
+  {
+    "name": "bgstaal/multipleWindow3dScene",
+    "url": "https://github.com/bgstaal/multipleWindow3dScene",
+    "description": "A quick example of how one can \"synchronize\" a 3d scene across multiple windows using three.js and localStorage",
+    "language": "JavaScript",
+    "stars": "18,439"
+  },
+  {
+    "name": "mikeroyal/Self-Hosting-Guide",
+    "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+    "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+    "language": "Dockerfile",
+    "stars": "14,523"
+  }
+]
