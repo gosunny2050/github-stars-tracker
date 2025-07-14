@@ -1,0 +1,72 @@
+[
+  {
+    "name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "PowerShell",
+    "stars": "20,403"
+  },
+  {
+    "name": "vercel/commerce",
+    "url": "https://github.com/vercel/commerce",
+    "description": "Next.js Commerce",
+    "language": "TypeScript",
+    "stars": "12,895"
+  },
+  {
+    "name": "block/goose",
+    "url": "https://github.com/block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "stars": "16,324"
+  },
+  {
+    "name": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "",
+    "stars": "177,459"
+  },
+  {
+    "name": "NVIDIA/cutlass",
+    "url": "https://github.com/NVIDIA/cutlass",
+    "description": "CUDA Templates for Linear Algebra Subroutines",
+    "language": "C++",
+    "stars": "7,935"
+  },
+  {
+    "name": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "stars": "104,808"
+  },
+  {
+    "name": "gorhill/uBlock",
+    "url": "https://github.com/gorhill/uBlock",
+    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+    "language": "JavaScript",
+    "stars": "55,696"
+  },
+  {
+    "name": "farhanashrafdev/90DaysOfCyberSecurity",
+    "url": "https://github.com/farhanashrafdev/90DaysOfCyberSecurity",
+    "description": "This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md",
+    "language": "",
+    "stars": "9,781"
+  },
+  {
+    "name": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
+    "language": "Python",
+    "stars": "26,749"
+  },
+  {
+    "name": "browserbase/stagehand",
+    "url": "https://github.com/browserbase/stagehand",
+    "description": "The AI Browser Automation Framework",
+    "language": "TypeScript",
+    "stars": "13,778"
+  }
+]
