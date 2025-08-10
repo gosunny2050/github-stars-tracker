@@ -1,0 +1,72 @@
+[
+  {
+    "name": "openai/codex",
+    "url": "https://github.com/openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "stars": "33,443"
+  },
+  {
+    "name": "xiaoyaocz/dart_simple_live",
+    "url": "https://github.com/xiaoyaocz/dart_simple_live",
+    "description": "\u7b80\u7b80\u5355\u5355\u7684\u770b\u76f4\u64ad",
+    "language": "Dart",
+    "stars": "12,016"
+  },
+  {
+    "name": "nautechsystems/nautilus_trader",
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester",
+    "language": "Rust",
+    "stars": "13,366"
+  },
+  {
+    "name": "nomic-ai/gpt4all",
+    "url": "https://github.com/nomic-ai/gpt4all",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+    "language": "C++",
+    "stars": "74,094"
+  },
+  {
+    "name": "polarsource/polar",
+    "url": "https://github.com/polarsource/polar",
+    "description": "An open source engine for your digital products. Sell SaaS and digital products in minutes.",
+    "language": "Python",
+    "stars": "6,429"
+  },
+  {
+    "name": "exo-explore/exo",
+    "url": "https://github.com/exo-explore/exo",
+    "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
+    "language": "Python",
+    "stars": "29,592"
+  },
+  {
+    "name": "steveiliop56/tinyauth",
+    "url": "https://github.com/steveiliop56/tinyauth",
+    "description": "The simplest way to protect your apps with a login screen.",
+    "language": "Go",
+    "stars": "4,174"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "url": "https://github.com/lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "Python",
+    "stars": "2,957"
+  },
+  {
+    "name": "libsdl-org/SDL",
+    "url": "https://github.com/libsdl-org/SDL",
+    "description": "Simple Directmedia Layer",
+    "language": "C",
+    "stars": "13,053"
+  },
+  {
+    "name": "sinaptik-ai/pandas-ai",
+    "url": "https://github.com/sinaptik-ai/pandas-ai",
+    "description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+    "language": "Python",
+    "stars": "21,628"
+  }
+]
