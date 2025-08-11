@@ -1,0 +1,72 @@
+[
+  {
+    "name": "umami-software/umami",
+    "url": "https://github.com/umami-software/umami",
+    "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+    "language": "TypeScript",
+    "stars": "28,664"
+  },
+  {
+    "name": "libsdl-org/SDL",
+    "url": "https://github.com/libsdl-org/SDL",
+    "description": "Simple Directmedia Layer",
+    "language": "C",
+    "stars": "13,157"
+  },
+  {
+    "name": "menloresearch/jan",
+    "url": "https://github.com/menloresearch/jan",
+    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+    "language": "TypeScript",
+    "stars": "35,956"
+  },
+  {
+    "name": "nomic-ai/gpt4all",
+    "url": "https://github.com/nomic-ai/gpt4all",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+    "language": "C++",
+    "stars": "74,308"
+  },
+  {
+    "name": "openai/codex",
+    "url": "https://github.com/openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "stars": "34,005"
+  },
+  {
+    "name": "RSSNext/Folo",
+    "url": "https://github.com/RSSNext/Folo",
+    "description": "\ud83e\udde1 Follow everything in one place",
+    "language": "TypeScript",
+    "stars": "30,999"
+  },
+  {
+    "name": "polarsource/polar",
+    "url": "https://github.com/polarsource/polar",
+    "description": "An open source engine for your digital products. Sell SaaS and digital products in minutes.",
+    "language": "Python",
+    "stars": "6,707"
+  },
+  {
+    "name": "fastapi/full-stack-fastapi-template",
+    "url": "https://github.com/fastapi/full-stack-fastapi-template",
+    "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+    "language": "TypeScript",
+    "stars": "35,597"
+  },
+  {
+    "name": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "language": "Kotlin",
+    "stars": "55,134"
+  },
+  {
+    "name": "idosal/git-mcp",
+    "url": "https://github.com/idosal/git-mcp",
+    "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
+    "language": "TypeScript",
+    "stars": "4,451"
+  }
+]
