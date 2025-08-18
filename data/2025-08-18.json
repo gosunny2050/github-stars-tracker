@@ -1,0 +1,72 @@
+[
+  {
+    "name": "coleam00/Archon",
+    "url": "https://github.com/coleam00/Archon",
+    "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+    "language": "Python",
+    "stars": "7,781"
+  },
+  {
+    "name": "emcie-co/parlant",
+    "url": "https://github.com/emcie-co/parlant",
+    "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+    "language": "Python",
+    "stars": "4,994"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "58,924"
+  },
+  {
+    "name": "tsoding/nob.h",
+    "url": "https://github.com/tsoding/nob.h",
+    "description": "Header only library for writing build recipes in C.",
+    "language": "C",
+    "stars": "1,608"
+  },
+  {
+    "name": "aliasrobotics/cai",
+    "url": "https://github.com/aliasrobotics/cai",
+    "description": "Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence",
+    "language": "Python",
+    "stars": "2,710"
+  },
+  {
+    "name": "PixiEditor/PixiEditor",
+    "url": "https://github.com/PixiEditor/PixiEditor",
+    "description": "PixiEditor is a Universal Editor for all your 2D needs",
+    "language": "C#",
+    "stars": "4,098"
+  },
+  {
+    "name": "dtyq/magic",
+    "url": "https://github.com/dtyq/magic",
+    "description": "Super Magic (\u8d85\u7ea7\u9ea6\u5409). The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)",
+    "language": "PHP",
+    "stars": "2,336"
+  },
+  {
+    "name": "LMCache/LMCache",
+    "url": "https://github.com/LMCache/LMCache",
+    "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+    "language": "Python",
+    "stars": "4,552"
+  },
+  {
+    "name": "colmap/colmap",
+    "url": "https://github.com/colmap/colmap",
+    "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+    "language": "C++",
+    "stars": "9,495"
+  },
+  {
+    "name": "OpenBB-finance/OpenBB",
+    "url": "https://github.com/OpenBB-finance/OpenBB",
+    "description": "Financial data aggregator for humans and AI agents.",
+    "language": "Python",
+    "stars": "49,902"
+  }
+]
