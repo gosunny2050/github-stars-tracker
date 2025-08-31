@@ -1,0 +1,72 @@
+[
+  {
+    "name": "juspay/hyperswitch",
+    "url": "https://github.com/juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "25,731"
+  },
+  {
+    "name": "inventree/InvenTree",
+    "url": "https://github.com/inventree/InvenTree",
+    "description": "Open Source Inventory Management System",
+    "language": "Python",
+    "stars": "5,608"
+  },
+  {
+    "name": "microsoft/mcp",
+    "url": "https://github.com/microsoft/mcp",
+    "description": "Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration",
+    "language": "C#",
+    "stars": "1,514"
+  },
+  {
+    "name": "QuentinFuxa/WhisperLiveKit",
+    "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
+    "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+    "language": "Python",
+    "stars": "3,705"
+  },
+  {
+    "name": "activepieces/activepieces",
+    "url": "https://github.com/activepieces/activepieces",
+    "description": "AI Agents & MCPs & AI Workflow Automation \u2022 (280+ MCP servers for AI agents) \u2022 AI Automation / AI Agent with MCPs \u2022 AI Workflows & AI Agents \u2022 MCPs for AI Agents",
+    "language": "TypeScript",
+    "stars": "16,662"
+  },
+  {
+    "name": "elixir-lang/expert",
+    "url": "https://github.com/elixir-lang/expert",
+    "description": "Official Elixir Language Server Protocol implementation",
+    "language": "Elixir",
+    "stars": "1,089"
+  },
+  {
+    "name": "laramies/theHarvester",
+    "url": "https://github.com/laramies/theHarvester",
+    "description": "E-mails, subdomains and names Harvester - OSINT",
+    "language": "Python",
+    "stars": "13,547"
+  },
+  {
+    "name": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "language": "Go",
+    "stars": "46,432"
+  },
+  {
+    "name": "dockur/windows",
+    "url": "https://github.com/dockur/windows",
+    "description": "Windows inside a Docker container.",
+    "language": "Shell",
+    "stars": "38,197"
+  },
+  {
+    "name": "DevCaress/guia-entrevistas-de-programacion",
+    "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion",
+    "description": "",
+    "language": "",
+    "stars": "5,494"
+  }
+]
