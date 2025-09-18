@@ -1,0 +1,72 @@
+[
+  {
+    "name": "category-labs/monad",
+    "url": "https://github.com/category-labs/monad",
+    "description": "",
+    "language": "C++",
+    "stars": "626"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "stars": "77,504"
+  },
+  {
+    "name": "category-labs/monad-bft",
+    "url": "https://github.com/category-labs/monad-bft",
+    "description": "",
+    "language": "Rust",
+    "stars": "369"
+  },
+  {
+    "name": "WebKit/WebKit",
+    "url": "https://github.com/WebKit/WebKit",
+    "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
+    "language": "JavaScript",
+    "stars": "9,124"
+  },
+  {
+    "name": "ItzCrazyKns/Perplexica",
+    "url": "https://github.com/ItzCrazyKns/Perplexica",
+    "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+    "language": "TypeScript",
+    "stars": "25,291"
+  },
+  {
+    "name": "openai/codex",
+    "url": "https://github.com/openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "stars": "42,154"
+  },
+  {
+    "name": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "description": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Open Source Airtable Alternative",
+    "language": "TypeScript",
+    "stars": "57,169"
+  },
+  {
+    "name": "dataease/SQLBot",
+    "url": "https://github.com/dataease/SQLBot",
+    "description": "\u57fa\u4e8e\u5927\u6a21\u578b\u548c RAG \u7684\u667a\u80fd\u95ee\u6570\u7cfb\u7edf\u3002Text-to-SQL Generation via LLMs using RAG.",
+    "language": "Python",
+    "stars": "2,223"
+  },
+  {
+    "name": "google-research/timesfm",
+    "url": "https://github.com/google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "stars": "5,749"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "stars": "40,843"
+  }
+]
