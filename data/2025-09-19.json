@@ -1,0 +1,72 @@
+[
+  {
+    "name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "stars": "78,754"
+  },
+  {
+    "name": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "stars": "207,635"
+  },
+  {
+    "name": "curl/curl",
+    "url": "https://github.com/curl/curl",
+    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "language": "C",
+    "stars": "39,205"
+  },
+  {
+    "name": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "stars": "172,699"
+  },
+  {
+    "name": "Alibaba-NLP/DeepResearch",
+    "url": "https://github.com/Alibaba-NLP/DeepResearch",
+    "description": "Tongyi DeepResearch, the Leading Open-source DeepResearch Agent",
+    "language": "Python",
+    "stars": "9,065"
+  },
+  {
+    "name": "category-labs/monad",
+    "url": "https://github.com/category-labs/monad",
+    "description": "",
+    "language": "C++",
+    "stars": "760"
+  },
+  {
+    "name": "TEN-framework/ten-framework",
+    "url": "https://github.com/TEN-framework/ten-framework",
+    "description": "Open-source framework for conversational voice AI agents.",
+    "language": "C",
+    "stars": "7,746"
+  },
+  {
+    "name": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "",
+    "stars": "328,548"
+  },
+  {
+    "name": "BasedHardware/omi",
+    "url": "https://github.com/BasedHardware/omi",
+    "description": "AI wearables. Put it on, speak, transcribe, automatically",
+    "language": "C",
+    "stars": "6,846"
+  },
+  {
+    "name": "linera-io/linera-protocol",
+    "url": "https://github.com/linera-io/linera-protocol",
+    "description": "Main repository for the Linera protocol",
+    "language": "Rust",
+    "stars": "29,199"
+  }
+]
