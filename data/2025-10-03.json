@@ -1,0 +1,72 @@
+[
+  {
+    "name": "nextcloud/server",
+    "url": "https://github.com/nextcloud/server",
+    "description": "\u2601\ufe0f Nextcloud server, a safe home for all your data",
+    "language": "PHP",
+    "stars": "32,287"
+  },
+  {
+    "name": "google/tunix",
+    "url": "https://github.com/google/tunix",
+    "description": "A JAX-native LLM Post-Training Library",
+    "language": "Python",
+    "stars": "966"
+  },
+  {
+    "name": "pathwaycom/pathway",
+    "url": "https://github.com/pathwaycom/pathway",
+    "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+    "language": "Python",
+    "stars": "43,994"
+  },
+  {
+    "name": "cjpais/Handy",
+    "url": "https://github.com/cjpais/Handy",
+    "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+    "language": "TypeScript",
+    "stars": "1,591"
+  },
+  {
+    "name": "anthropics/claude-agent-sdk-python",
+    "url": "https://github.com/anthropics/claude-agent-sdk-python",
+    "description": "",
+    "language": "Python",
+    "stars": "2,001"
+  },
+  {
+    "name": "atuinsh/desktop",
+    "url": "https://github.com/atuinsh/desktop",
+    "description": "\ud83d\udcd6 Runbooks that run",
+    "language": "TypeScript",
+    "stars": "982"
+  },
+  {
+    "name": "SDWebImage/SDWebImage",
+    "url": "https://github.com/SDWebImage/SDWebImage",
+    "description": "Asynchronous image downloader with cache support as a UIImageView category",
+    "language": "Objective-C",
+    "stars": "25,704"
+  },
+  {
+    "name": "Lightricks/LTX-Video",
+    "url": "https://github.com/Lightricks/LTX-Video",
+    "description": "Official repository for LTX-Video",
+    "language": "Python",
+    "stars": "8,201"
+  },
+  {
+    "name": "juspay/hyperswitch",
+    "url": "https://github.com/juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "34,891"
+  },
+  {
+    "name": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "language": "TypeScript",
+    "stars": "78,931"
+  }
+]
