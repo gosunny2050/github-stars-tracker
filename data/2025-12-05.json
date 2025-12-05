@@ -1,0 +1,72 @@
+[
+  {
+    "name": "basecamp/fizzy",
+    "url": "https://github.com/basecamp/fizzy",
+    "description": "Kanban as it should be. Not as it has been.",
+    "language": "Ruby",
+    "stars": "3,201"
+  },
+  {
+    "name": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+    "language": "Zig",
+    "stars": "83,651"
+  },
+  {
+    "name": "DayuanJiang/next-ai-draw-io",
+    "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+    "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+    "language": "TypeScript",
+    "stars": "3,253"
+  },
+  {
+    "name": "openai/codex",
+    "url": "https://github.com/openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "stars": "51,866"
+  },
+  {
+    "name": "LadybirdBrowser/ladybird",
+    "url": "https://github.com/LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "stars": "56,332"
+  },
+  {
+    "name": "ashishpatel26/500-AI-Agents-Projects",
+    "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+    "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+    "language": "",
+    "stars": "18,015"
+  },
+  {
+    "name": "sst/opencode",
+    "url": "https://github.com/sst/opencode",
+    "description": "The AI coding agent built for the terminal.",
+    "language": "TypeScript",
+    "stars": "35,540"
+  },
+  {
+    "name": "ZJU-LLMs/Foundations-of-LLMs",
+    "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
+    "description": "",
+    "language": "",
+    "stars": "13,035"
+  },
+  {
+    "name": "trustedsec/social-engineer-toolkit",
+    "url": "https://github.com/trustedsec/social-engineer-toolkit",
+    "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
+    "language": "Python",
+    "stars": "13,059"
+  },
+  {
+    "name": "Flowseal/zapret-discord-youtube",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": "18,760"
+  }
+]
