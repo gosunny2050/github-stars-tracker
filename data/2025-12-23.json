@@ -1,0 +1,72 @@
+[
+  {
+    "name": "exo-explore/exo",
+    "url": "https://github.com/exo-explore/exo",
+    "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
+    "language": "Python",
+    "stars": "37,173"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "stars": "106,490"
+  },
+  {
+    "name": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "language": "Python",
+    "stars": "73,418"
+  },
+  {
+    "name": "GreyDGL/PentestGPT",
+    "url": "https://github.com/GreyDGL/PentestGPT",
+    "description": "A GPT-empowered penetration testing tool",
+    "language": "Python",
+    "stars": "10,367"
+  },
+  {
+    "name": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": "25,154"
+  },
+  {
+    "name": "cocoindex-io/cocoindex",
+    "url": "https://github.com/cocoindex-io/cocoindex",
+    "description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!",
+    "language": "Rust",
+    "stars": "4,804"
+  },
+  {
+    "name": "danielmiessler/Fabric",
+    "url": "https://github.com/danielmiessler/Fabric",
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "language": "Go",
+    "stars": "36,132"
+  },
+  {
+    "name": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "stars": "193,000"
+  },
+  {
+    "name": "rendercv/rendercv",
+    "url": "https://github.com/rendercv/rendercv",
+    "description": "Typst-based CV/resume generator for academics and engineers",
+    "language": "Python",
+    "stars": "5,171"
+  },
+  {
+    "name": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
+    "language": "Python",
+    "stars": "83,510"
+  }
+]
