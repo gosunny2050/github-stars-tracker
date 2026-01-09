@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "stars": "19,412"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "Shell",
+    "stars": "53,475"
+  },
+  {
+    "name": "nothings/stb",
+    "url": "https://github.com/nothings/stb",
+    "description": "stb single-file public domain libraries for C/C++",
+    "language": "C",
+    "stars": "31,673"
+  },
+  {
+    "name": "MiroMindAI/MiroThinker",
+    "url": "https://github.com/MiroMindAI/MiroThinker",
+    "description": "MiroThinker is an open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.",
+    "language": "Python",
+    "stars": "3,533"
+  },
+  {
+    "name": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "stars": "70,242"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "stars": "12,549"
+  },
+  {
+    "name": "xpipe-io/xpipe",
+    "url": "https://github.com/xpipe-io/xpipe",
+    "description": "Access your entire server infrastructure from your local desktop",
+    "language": "Java",
+    "stars": "12,906"
+  },
+  {
+    "name": "NVlabs/alpasim",
+    "url": "https://github.com/NVlabs/alpasim",
+    "description": "",
+    "language": "Python",
+    "stars": "545"
+  },
+  {
+    "name": "Lissy93/web-check",
+    "url": "https://github.com/Lissy93/web-check",
+    "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f All-in-one OSINT tool for analysing any website",
+    "language": "TypeScript",
+    "stars": "29,009"
+  },
+  {
+    "name": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "stars": "37,868"
+  }
+]
