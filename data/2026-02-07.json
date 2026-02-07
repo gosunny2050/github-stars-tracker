@@ -1,0 +1,58 @@
+[
+  {
+    "name": "openai/skills",
+    "url": "https://github.com/openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "stars": "4,935"
+  },
+  {
+    "name": "bytedance/UI-TARS-desktop",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "stars": "27,147"
+  },
+  {
+    "name": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "stars": "91,514"
+  },
+  {
+    "name": "likec4/likec4",
+    "url": "https://github.com/likec4/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "language": "TypeScript",
+    "stars": "1,841"
+  },
+  {
+    "name": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "stars": "31,553"
+  },
+  {
+    "name": "ZeroTworu/anet",
+    "url": "https://github.com/ZeroTworu/anet",
+    "description": "Simple Rust VPN Client / Server",
+    "language": "Rust",
+    "stars": "547"
+  },
+  {
+    "name": "Flowseal/zapret-discord-youtube",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": "21,974"
+  },
+  {
+    "name": "DataExpert-io/data-engineer-handbook",
+    "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+    "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Jupyter Notebook",
+    "stars": "39,904"
+  }
+]
