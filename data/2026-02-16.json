@@ -1,0 +1,72 @@
+[
+  {
+    "name": "nautechsystems/nautilus_trader",
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester",
+    "language": "Rust",
+    "stars": "19,370"
+  },
+  {
+    "name": "steipete/gogcli",
+    "url": "https://github.com/steipete/gogcli",
+    "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+    "language": "Go",
+    "stars": "3,054"
+  },
+  {
+    "name": "rowboatlabs/rowboat",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "description": "Open-source AI coworker, with memory",
+    "language": "TypeScript",
+    "stars": "6,879"
+  },
+  {
+    "name": "github/gh-aw",
+    "url": "https://github.com/github/gh-aw",
+    "description": "GitHub Agentic Workflows",
+    "language": "Go",
+    "stars": "2,751"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "stars": "25,469"
+  },
+  {
+    "name": "alibaba/zvec",
+    "url": "https://github.com/alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "language": "C++",
+    "stars": "2,445"
+  },
+  {
+    "name": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
+    "language": "TypeScript",
+    "stars": "197,852"
+  },
+  {
+    "name": "moonshine-ai/moonshine",
+    "url": "https://github.com/moonshine-ai/moonshine",
+    "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+    "language": "C",
+    "stars": "3,876"
+  },
+  {
+    "name": "brave/brave-browser",
+    "url": "https://github.com/brave/brave-browser",
+    "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+    "language": "",
+    "stars": "21,568"
+  },
+  {
+    "name": "SynkraAI/aios-core",
+    "url": "https://github.com/SynkraAI/aios-core",
+    "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+    "language": "JavaScript",
+    "stars": "817"
+  }
+]
