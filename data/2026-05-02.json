@@ -1,0 +1,65 @@
+[
+  {
+    "name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "stars": "60,157"
+  },
+  {
+    "name": "soxoj/maigret",
+    "url": "https://github.com/soxoj/maigret",
+    "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "stars": "21,828"
+  },
+  {
+    "name": "warpdotdev/warp",
+    "url": "https://github.com/warpdotdev/warp",
+    "description": "Warp is an agentic development environment, born out of the terminal.",
+    "language": "Rust",
+    "stars": "51,725"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "description": "Coding Agent Harness",
+    "language": "Rust",
+    "stars": "2,434"
+  },
+  {
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "stars": "52,969"
+  },
+  {
+    "name": "browserbase/skills",
+    "url": "https://github.com/browserbase/skills",
+    "description": "Claude Agent SDK with a web browsing tool",
+    "language": "JavaScript",
+    "stars": "1,231"
+  },
+  {
+    "name": "simstudioai/sim",
+    "url": "https://github.com/simstudioai/sim",
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+    "language": "TypeScript",
+    "stars": "28,198"
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": "175,790"
+  },
+  {
+    "name": "Flowseal/zapret-discord-youtube",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": "26,991"
+  }
+]
