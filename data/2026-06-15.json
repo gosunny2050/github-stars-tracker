@@ -1,0 +1,72 @@
+[
+  {
+    "name": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "stars": "121,733"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "language": "TypeScript",
+    "stars": "447,425"
+  },
+  {
+    "name": "pytest-dev/pytest",
+    "url": "https://github.com/pytest-dev/pytest",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+    "language": "Python",
+    "stars": "14,094"
+  },
+  {
+    "name": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "description": "Rust-based platform for the Web",
+    "language": "Rust",
+    "stars": "33,832"
+  },
+  {
+    "name": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac",
+    "language": "Ruby",
+    "stars": "31,365"
+  },
+  {
+    "name": "NVIDIA/SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "stars": "5,649"
+  },
+  {
+    "name": "meshery/meshery",
+    "url": "https://github.com/meshery/meshery",
+    "description": "Meshery, the cloud native manager",
+    "language": "TypeScript",
+    "stars": "10,471"
+  },
+  {
+    "name": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "TypeScript",
+    "stars": "50,043"
+  },
+  {
+    "name": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+    "language": "",
+    "stars": "35,677"
+  },
+  {
+    "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+    "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+    "description": "Introduction to Autonomous Robots",
+    "language": "TeX",
+    "stars": "2,863"
+  }
+]
