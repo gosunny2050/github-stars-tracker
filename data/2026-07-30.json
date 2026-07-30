@@ -1,0 +1,72 @@
+[
+  {
+    "name": "opengeos/GeoLibre",
+    "url": "https://github.com/opengeos/GeoLibre",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "language": "TypeScript",
+    "stars": "4,180"
+  },
+  {
+    "name": "moeru-ai/airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "language": "TypeScript",
+    "stars": "45,504"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": "235,724"
+  },
+  {
+    "name": "huggingface/speech-to-speech",
+    "url": "https://github.com/huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models",
+    "language": "Python",
+    "stars": "7,997"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "description": "The most RAM efficient harness",
+    "language": "Rust",
+    "stars": "13,583"
+  },
+  {
+    "name": "grokability/snipe-it",
+    "url": "https://github.com/grokability/snipe-it",
+    "description": "A free open source IT asset/license management system",
+    "language": "PHP",
+    "stars": "14,509"
+  },
+  {
+    "name": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "description": "Deepfakes Software For All",
+    "language": "Python",
+    "stars": "56,433"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "stars": "51,413"
+  },
+  {
+    "name": "different-ai/openwork",
+    "url": "https://github.com/different-ai/openwork",
+    "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+    "language": "TypeScript",
+    "stars": "18,091"
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": "263,426"
+  }
+]
